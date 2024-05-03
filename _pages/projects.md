@@ -164,7 +164,7 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
             <br>
             Twelfth (ICLR 2024)
               <details>
-                <summary>Abstract  | <a href="">Report</a> | <a href="https://www.youtube.com/watch?v=vlZIPXOWXLo&feature=youtu.be&ab_channel=Technocrats"</a> Video</summary>            
+                <summary>Abstract  | <a href="">Report</a> | <a href="https://www.youtube.com/watch?v=vlZIPXOWXLo&feature=youtu.be&ab_channel=Technocrats">Video </a> </summary>            
                   <p class="message">
                   </p>
               </details>
