@@ -158,12 +158,12 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
      </td>
      <td valign="top" width="85%">
           <p>
-              <paper></paper>
+              <paper>Team Technocrats - Badminton Playing Robots </paper>
               <br>  
               <b>Prithvish V N</b>,    
             <br>
-            Twelfth (ICLR 2024)
               <details>
+              ROBOCON 2015 ASIA PACIFIC
                 <summary>Abstract  | <a href="">Report</a> | <a href="https://www.youtube.com/watch?v=vlZIPXOWXLo&feature=youtu.be&ab_channel=Technocrats">Video </a> </summary>            
                   <p class="message">
                   </p>
