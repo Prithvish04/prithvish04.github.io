@@ -39,7 +39,7 @@ paper {
 
 
 </style>
-#### 2024
+#### 2020-2022
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
    <tr>
@@ -124,7 +124,7 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
               <b>Prithvish V N</b>,    
             <br>
               <details>
-                <summary>Abstract  | <a href="https://www.youtube.com/watch?v=Sq5F-VKy3Hg&t=72s&ab_channel=Prithvish">Video</a> | <a href="">Code</a> Poster</summary>            
+                <summary>Abstract  | <a href="https://www.youtube.com/watch?v=Sq5F-VKy3Hg&t=72s&ab_channel=Prithvish">Video</a> | <a href="">Poster</a> Poster</summary>            
                   <p class="message">
                   </p>
               </details>
@@ -138,7 +138,7 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
      </td>
      <td valign="top" width="85%">
           <p>
-              <paper>MindSWITCH</paper>
+              <paper>DMD4DMD</paper>
               <br>  
               <b>Prithvish V N </b>,    
             <br>
@@ -164,7 +164,7 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
             <br>
             Twelfth (ICLR 2024)
               <details>
-                <summary>Abstract  | <a href="https://arxiv.org/abs/2312.02438">Arxiv</a> | <a href="https://github.com/yashchandak/IndirectExpDesign/tree/main">Code</a> </summary>            
+                <summary>Abstract  | <a href="">Report</a> | <a href="https://www.youtube.com/watch?v=vlZIPXOWXLo&feature=youtu.be&ab_channel=Technocrats"</a> Video</summary>            
                   <p class="message">
                   </p>
               </details>
