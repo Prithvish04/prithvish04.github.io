@@ -1,0 +1,53 @@
+# Dependencies
+markdown: kramdown
+highlighter: rouge
+encoding: utf-8
+
+# Setup
+title: Prithvish
+tagline: 'Personal Webpage'
+description: 'prithvish[dot]n13@gmail.com'
+url: https://prithvish.github.io/prithvish
+baseurl: '' # the optional subpath of your site, e.g. "/blog"
+            # NB: This applies to all pages in your Jekyll site.
+            # If you want to move just the blog index pages but keep
+            # other pages at root, see the paginate_path and
+            # sidebar_blog_link below.
+
+email: prithvish[dot]n13@gmail.com
+
+author:
+  name: 'Prithvish V N'
+  url: prithvish.github.io
+
+paginate: 5
+paginate_path: '/blog/page:num/' # Or '/blog/page:num' if you want to move your index pages
+
+github:
+  repo: https://github.com/prithvish04
+
+twitter: https://x.com/prithvishv96
+facebook: https://www.facebook.com/prithvish13
+linkedin: https://www.linkedin.com/in/prithvish04/
+scholar: https://scholar.google.com/citations?user=OivHZ9EAAAAJ&hl=en
+
+# Include all files under '_pages' as files in root directory
+include: ['_pages']
+
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+
+# Disqus Comments
+disqus:
+  shortname: prith # Leave shortname blank to disable comments site-wide.
+                   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+
+# Sidebar link settings
+sidebar_home_link: true
+# sidebar_blog_link:  '/blog'   # By default, your home page is your blog
+                                # page. If you change your paginate_path,
+                                # set this to the root of the paginate_path
+                                # to enable a separate blog link.
