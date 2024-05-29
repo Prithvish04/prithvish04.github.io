@@ -7,7 +7,7 @@ encoding: utf-8
 title: Prithvish
 tagline: 'Personal Webpage'
 description: 'prithvish[dot]n13@gmail.com'
-url: https://prithvish.github.io/prithvish
+url: https://prithvish04.github.io/prithvish
 baseurl: '' # the optional subpath of your site, e.g. "/blog"
             # NB: This applies to all pages in your Jekyll site.
             # If you want to move just the blog index pages but keep
@@ -18,7 +18,7 @@ email: prithvish[dot]n13@gmail.com
 
 author:
   name: 'Prithvish V N'
-  url: prithvish.github.io
+  url: prithvish04.github.io
 
 paginate: 5
 paginate_path: '/blog/page:num/' # Or '/blog/page:num' if you want to move your index pages
