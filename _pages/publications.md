@@ -51,7 +51,13 @@ paper {
           <p>
             <paper> SENSIM: An Event-driven Parallel Simulator for Multi-core Neuromorphic Systems </paper>
               <br>  
-              <b>Prithvish V N</b>*,    
+              <b>Prithvish V N</b>,
+              <a href="">Mohammad Tahghighi</a>,
+              <a href="">Gert-Jan van Schaik</a>,
+              <a href="">Kanishkan Vadivel</a>,
+              <a href="">Manolis Sifalakis</a>,
+              <a href="">Guangzhi Tang</a>,
+              <a href="">Amirreza Yousefzadeh</a>.    
             <br>
             IEEE WCCI International Joint Conference on Neural Networks (IJCNN 2024)
               <details>
@@ -72,13 +78,13 @@ paper {
           <p>
               <paper>Optimizing event-based neural networks on digital neuromorphic architecture: a comprehensive design space exploration</paper>
               <br>  
-              <b>Prithvish V N</b>, <a href="">Kevin Shidqi</a>,
-<a href="">GertJan van Schaik</a>,
+              <a href="">Yingfu Xu</a>,
+              <a href="">Gert-Jan van Schaik</a>,
 <a href="">Refik Bilgic</a>,
 <a href="">Alexandra Dobrita</a>,
 <a href="">Shenqi Wang</a>,
 <a href="">Roy Meijer</a>,
-<a href="">Yingfu Xu</a>,
+<b>Prithvish V N</b>,
 <a href="">Cina Arjmand</a>,
 <a href="">Pietro Martinello</a>,
 <a href="">Anteneh Gebregiorgis</a>,

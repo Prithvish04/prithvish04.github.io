@@ -71,7 +71,13 @@ As Nikola Tesla once said ... "If you want to find the secrets of the universe, 
           <p>
               <paper> SENSIM: An Event-driven Parallel Simulator for Multi-core Neuromorphic Systems </paper>
               <br>  
-              <b>Prithvish V N</b>*,    
+              <b>Prithvish V N</b>,
+              <a href="">Mohammad Tahghighi</a>,
+              <a href="">Gert-Jan van Schaik</a>,
+              <a href="">Kanishkan Vadivel</a>,
+              <a href="">Manolis Sifalakis</a>,
+              <a href="">Guangzhi Tang</a>,
+              <a href="">Amirreza Yousefzadeh</a>.    
             <br>
             IEEE WCCI International Joint Conference on Neural Networks (IJCNN 2024)
               <details>
@@ -92,7 +98,24 @@ As Nikola Tesla once said ... "If you want to find the secrets of the universe, 
           <p>
               <paper>Optimizing event-based neural networks on digital neuromorphic architecture: a comprehensive design space exploration</paper>
               <br>  
-              <b>Prithvish V N</b>,    
+              <a href="">Yingfu Xu</a>,
+              <a href="">Gert-Jan van Schaik</a>,
+<a href="">Refik Bilgic</a>,
+<a href="">Alexandra Dobrita</a>,
+<a href="">Shenqi Wang</a>,
+<a href="">Roy Meijer</a>,
+<b>Prithvish V N</b>,
+<a href="">Cina Arjmand</a>,
+<a href="">Pietro Martinello</a>,
+<a href="">Anteneh Gebregiorgis</a>,
+<a href="">Said Hamdioui</a>,
+<a href="">Paul Detterer</a>,
+<a href="">Stefano Traferro</a>,
+<a href="">Mario Konijnenburg</a>,
+<a href="">Kanishkan Vadivel</a>,
+<a href="">Manolis Sifalakis</a>,
+<a href="">Guangzhi Tang</a>,
+<a href="">Amirreza Yousefzadeh</a>.    
             <br>
             Frontiers of Neuroscience Volume 18 (2024)
               <details>
