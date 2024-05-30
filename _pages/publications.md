@@ -49,13 +49,13 @@ paper {
      </td>
      <td valign="top" width="85%">
           <p>
-              <paper> SENSIM: An Event-driven Parallel Simulator for Multi-core Neuromorphic Systems </paper>
+            <paper> SENSIM: An Event-driven Parallel Simulator for Multi-core Neuromorphic Systems </paper>
               <br>  
               <b>Prithvish V N</b>*,    
             <br>
             IEEE WCCI International Joint Conference on Neural Networks (IJCNN 2024)
               <details>
-                <summary>Abstract  |  <a href="">Paper</a> |  <a href="">Video</a> </summary> | <a href="">Poster</a> | <a href="Accepted / Yet to present">slides</a> |             
+                <summary>Abstract  |  <a href="https://github.com/Prithvish04/SENSIM_paper_submission/blob/main/docs/SENSIM_paper_sub_1570986279.pdf">Paper</a> |  <a href="https://www.youtube.com/watch?v=mfZOLWlofaQ">Video</a> | <a href="https://github.com/Prithvish04/SENSIM_paper_submission/blob/main/docs/SENSIM_poster.pdf">Poster</a> | <a href="https://github.com/Prithvish04/SENSIM_paper_submission/blob/main/docs/SENSIM_Slides.pdf">slides</a>  </summary>          
                   <p class="message">
                   In this paper, we present SENSIM, which is an open-source simulator designed specifically for the SENECA neuromorphic processor. This simulator is unique in that it combines features from both hardware-specific and hardware-agnostic spiking neural network simulators, resulting in a hybrid event-driven and time-step-driven simulation approach. This allows for flexibility between accuracy and speed during different stages of simulation. Our work highlights the open-source SENSIM platform, which enables the mapping of large-scale SNN/DNN models to the SENECA cores, as well as the benchmarking of crucial KPIs such as power and latency estimations\footnote{Source code of the simulator can be found in 
                   </p>
@@ -137,8 +137,5 @@ SENMap is developed in such a way that it supports flexible SNN/DNN application 
           </p> 
      </td>
   </tr> 
-
-
-
 </table>
  
