@@ -72,7 +72,24 @@ paper {
           <p>
               <paper>Optimizing event-based neural networks on digital neuromorphic architecture: a comprehensive design space exploration</paper>
               <br>  
-              <b>Prithvish V N</b>,    
+              <b>Prithvish V N</b>, <a href="">Kevin Shidqi</a>,
+<a href="">GertJan van Schaik</a>,
+<a href="">Refik Bilgic</a>,
+<a href="">Alexandra Dobrita</a>,
+<a href="">Shenqi Wang</a>,
+<a href="">Roy Meijer</a>,
+<a href="">Yingfu Xu</a>,
+<a href="">Cina Arjmand</a>,
+<a href="">Pietro Martinello</a>,
+<a href="">Anteneh Gebregiorgis</a>,
+<a href="">Said Hamdioui</a>,
+<a href="">Paul Detterer</a>,
+<a href="">Stefano Traferro</a>,
+<a href="">Mario Konijnenburg</a>,
+<a href="">Kanishkan Vadivel</a>,
+<a href="">Manolis Sifalakis</a>,
+<a href="">Guangzhi Tang</a>,
+<a href="">Amirreza Yousefzadeh</a>.
             <br>
             Frontiers of Neuroscience Volume 18 (2024)
               <details>
