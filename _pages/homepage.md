@@ -42,7 +42,7 @@ paper {
 <!--<img align="left" width=150px src="/images/dp.jpg"> -->
 
 I am currently open to work. I used to work as a Senior Research Engineer at [Barcelona Supercomputing Center](https://www.bsc.es). Prior to which, I received my MSc degree in computer engineering from the [Quantum and computer engineering department](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering) at the [Delft University of Technology](https://www.tudelft.nl/en/), where I was fortunate to have been advised by [Prof. dr. ir. Zaid Al-Ars](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/computer-engineering/staff/zaid-al-ars). 
-I did my master thesis with [Interuniversity Microelectronic Center](https://www.imec-int.com/en) where I interacted with some industry leading researchers and scientists. I was extremely fortunate to have been supervised by [Prof. dr. ir. Amirreza Yousefzadeh](https://people.utwente.nl/a.yousefzadeh) and [ir. Gert-Jan van Schaik](https://ieeexplore.ieee.org/author/38243322300) for my thesis. I also had the chance to interact with [Dr. Manolis Sifalakis](https://scholar.google.ch/citations?user=zrwgoKMAAAAJ&hl=en), Paul Detterer(https://scholar.google.com/citations?user=oiwQPnYAAAAJ&hl=en). 
+I did my master thesis with [Interuniversity Microelectronic Center](https://www.imec-int.com/en) where I interacted with some industry leading researchers and scientists. I was extremely fortunate to have been supervised by [Prof. dr. ir. Amirreza Yousefzadeh](https://people.utwente.nl/a.yousefzadeh) and [ir. Gert-Jan van Schaik](https://ieeexplore.ieee.org/author/38243322300) for my thesis. I also had the chance to interact with [Dr. Manolis Sifalakis](https://scholar.google.ch/citations?user=zrwgoKMAAAAJ&hl=en), [Paul Detterer](https://scholar.google.com/citations?user=oiwQPnYAAAAJ&hl=en), [Tang Guangzhi](https://tangguangzhi.com/) & [Kanishkan Vadivel](https://scholar.google.com/citations?user=1k5ynUwAAAAJ&hl=en). 
 
 <br>  
  My Resume/CV can be found [here](/docs/CV_Prithvish_June_2024_.pdf).
@@ -60,8 +60,6 @@ Click [here](/projects) for all the hobby projects.
 ### Neurmorphic computing and SENeCA
 
 As Nikola Tesla once said ... "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration."
-
-
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 
