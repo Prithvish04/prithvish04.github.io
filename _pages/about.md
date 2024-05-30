@@ -36,7 +36,7 @@ tbody tr:nth-child(odd) th {
 </style>
 
 <br><br>
-I am a dedicated, practical, and adaptable researcher/engineer with a strong passion for system design, eager to enhance the computing design and development process. With 3.5 years of experience as a Technical Solutions Engineer at Arista Networks, I cultivated a profound interest in the hardware architecture of Arista’s data center switches and routers. This intrigue motivated me to pursue a Master’s degree in Computer Engineering, allowing me to explore systems research and cutting-edge hardware design in more depth.
+I am a passionate, pragmatic, and versatile researcher/engineer with a strong passion for system design, eager to enhance the computing design and development process. With 3.5 years of experience as a Technical Solutions Engineer at Arista Networks, I cultivated a profound interest in the hardware architecture of Arista’s data center switches and routers. This intrigue motivated me to pursue a Master’s degree in Computer Engineering, allowing me to explore systems research and cutting-edge hardware design in more depth.
 <br><br>
 My time at TU Delft provided me with a thorough grasp of various layers of the compute design stack and the essential skills to excel in diverse industry roles. Developments in heterogeneous cores, many-core systems, and accelerators such as GPUs and FPGAs in compute hardware, even for data center equipment, intensified my enthusiasm for this field.
 <br><br>
@@ -44,9 +44,7 @@ At IMEC (Interuniversity Microelectronics Center), I acquired valuable expertise
 <br><br>
 During this period, I contributed to research and authored papers on SENeCA, SENSIM, and SENMap, which bolstered my confidence in pursuing Research & Development roles in the industry. I am excited to apply my skills and experiences to innovative research projects involving scaling up systems, modeling systems, neuromorphic systems, data-driven systems, high-performance computing, reconfigurable computing, distributed systems, real-time systems, machine learning, analytics, deep learning, and more.
 <br><br>
-My recent research interests would oscillate from neurmorphic to quromorphic, AC transformers to transformer models, registers to memristers, computer networks to neural networks, route oscillations to LC oscillations, wireshark to kernelshark, synchronisation to optimization, markov chains to fourier series, game theory to queueing theory, reinforcement learning to meta learning. gausian to baysian, Jacobian to Hessian, stochasticity to synaptic time dependent plasticity ... anything that makes me curious. I strongly belive in 
-Quoting Nikola Tesla "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration."
-
+My recent research interests would oscillate from neurmorphic to quromorphic, AC transformers to transformer models, registers to memristers, computer networks to neural networks, route oscillations to LC oscillations, wireshark to kernelshark, synchronisation to optimization, markov chains to fourier series, game theory to queueing theory, reinforcement learning to meta learning. gausian to baysian, Jacobian to Hessian, stochasticity to synaptic time dependent plasticity ... anything that makes me curious. 
 
 <!--
 <br>
@@ -58,7 +56,7 @@ My Resume/CV can be found [here](/docs/Resume.pdf).
 ## Service
 
 ### Conferences
-Reviewer: [DATE](https://www.date-conference.com/) (2023-2024)
+Reviewer: [DATE Conference](https://www.date-conference.com/) (2023-2024)
 
 <br><br>
 
