@@ -45,6 +45,9 @@ disqus:
   shortname: prith # Leave shortname blank to disable comments site-wide.
                    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
 
+
+google_analytics:   G-V6CFG19XPW
+
 # Sidebar link settings
 sidebar_home_link: true
 # sidebar_blog_link:  '/blog'   # By default, your home page is your blog
