@@ -65,6 +65,9 @@ paper {
           </p>  
      </td>
   </tr> 
+
+
+
   
   <tr>
     <td width="14%"  valign="top">
@@ -86,6 +89,26 @@ paper {
      </td>
   </tr> 
  
+   <tr>
+    <td width="14%"  valign="top">
+        <img src="/images/projects/deeporchards.png" alt="cannyedge" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+     </td>
+     <td valign="top" width="85%">
+          <p>
+              <paper>Deep Orchards - Reproducibility project</paper>
+              <br>  
+              <b>Prithvish V N</b>,    
+            <br>
+              <details>
+                <summary>Abstract  | <a href="https://github.com/Prithvish04/Deep-orchards">Code & blog</a>  </summary>            
+                <p class="message">
+                Terms like Deep learning and machine learning have been quite popular these days. There have been several advancements in the field over the last couple of years. Having seen several fields slowly adapting techniques to solve problems via deep learning and machine learning encouraged encouraged us to take up deep learning courses in our Masters. While courses give you a basic understanding on a subject, Projects have always been an interesting way of learning new concepts hence we took up a challenging project to integrate the Deep Orchards dataset with the Faster RCNN network and reproduce the research paper. The work takes you through the very basic steps one should follow if you are a newbie in deep learning.
+                </p>
+              </details>
+          </p>  
+     </td>
+  </tr> 
+
  <tr>
     <td width="14%"  valign="top">
         <img src="/images/projects/ethereal.png" alt="ethereal" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
