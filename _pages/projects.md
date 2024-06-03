@@ -164,8 +164,9 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
             <br>
               <details>
               ROBOCON 2015 ASIA PACIFIC
-                <summary>Abstract  | <a href="">Report</a> | <a href="https://www.youtube.com/watch?v=vlZIPXOWXLo&feature=youtu.be&ab_channel=Technocrats">Video </a> </summary>            
+                <summary>Abstract  | <a href="">Report</a> | <a href="https://www.youtube.com/watch?v=vlZIPXOWXLo&feature=youtu.be&ab_channel=Technocrats">Video </a> | <a href="https://technocratsrobotics.in/">Website </a>   </summary>            
                   <p class="message">
+                  ROBOCON is an Asia-Pacific robotics competition held every year with different problem statements. The problem statements are carefully curated to encourage design innovations in the field of robotics. The problem statement for the year 2015 was to make 2 robots that will play a doubles badminton match with the other team’s robots. The choice of fully automated vs manual robots was provided by the organisers. 
                   </p>
               </details>
           </p>  
