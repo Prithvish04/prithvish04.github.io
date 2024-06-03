@@ -91,7 +91,7 @@ paper {
  
    <tr>
     <td width="14%"  valign="top">
-        <img src="/images/projects/deeporchards.png" alt="cannyedge" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+        <img src="/images/projects/deeporchards.png" alt="deeporchards" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
           <p>
