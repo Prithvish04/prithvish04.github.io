@@ -53,7 +53,7 @@ paper {
               <b>Prithvish V N</b>,    
             <br>
               <details>
-                <summary>Abstract  | <a href="">Code & Report</a>  </summary>            
+                <summary>Abstract  | <a href="https://github.com/Prithvish04/reconfigurable_project">Code & Report</a>  </summary>            
                 <p class="message">
                 The project covers a successful implementation of Canny edge detection in software as well as in hardware. Software implementation is used as a reference to evaluate the correctness and performance of the design. It can be concluded from the results of the design that the correctness reduces due to limited registers in the FPGA, which does not allow complete partitioning of the buffer in the Hysteresis stage. The performance increases significantly by optimizing the Sobel filter using the CORDIC algorithm, pipelining the operations, using intermediate arrays, and removing false dependencies.
 
