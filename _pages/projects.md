@@ -77,7 +77,7 @@ paper {
               <b>Prithvish V N</b>,    
             <br>
               <details>
-                <summary>Abstract  | <a href="">Code & Report</a> </summary>
+                <summary>Abstract  | <a href="https://github.com/Prithvish04/Processor_Design_MIPS_improvements">Code & Report</a> </summary>
                   <p class="message">
                   This project aims to lay out the changes made to a simple MIPS architecture processor in order to improve severalperformance metrics of it such as speed, energy use and power consumption, as well as area. For this reportin particular the decreasing energy consumption while maintaining decent performance was considered aboveall. To that end, three major parts of the original processor were modified. Those were the cache hierarchy,the adder module for the alu and also the multiplier unit. In this report through design space exploration thebest cache configuration was found, resulting in about 3.2 Joules saved and 2.8 million cycles less. Finally, afterdoing research, the best options for the other two changes were found. Where after a radix-4 multiplier anda prefix adder were implemented. A final processor capable of running the benchmarks in 4948 million cycleswith only 7.59 Joules was achieved.
                   </p>
