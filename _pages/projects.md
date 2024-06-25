@@ -109,6 +109,27 @@ paper {
      </td>
   </tr> 
 
+     <tr>
+    <td width="14%"  valign="top">
+        <img src="/images/projects/kitchen.png" alt="kitchen" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+     </td>
+     <td valign="top" width="85%">
+          <p>
+              <paper></paper>
+              <br>  
+              <b>Prithvish V N</b>,    
+            <br>
+              <details>
+                <summary>Abstract  | <a href="https://github.com/Prithvish04/kitchen">Code & blog</a>  </summary>            
+                <p class="message">
+
+
+                </p>
+              </details>
+          </p>  
+     </td>
+  </tr> 
+
  <tr>
     <td width="14%"  valign="top">
         <img src="/images/projects/ethereal.png" alt="ethereal" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
@@ -149,6 +170,7 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
               <details>
                 <summary>Abstract  | <a href="https://www.youtube.com/watch?v=Sq5F-VKy3Hg&t=72s&ab_channel=Prithvish">Video</a> | <a href="">Poster</a> Poster</summary>            
                   <p class="message">
+
                   </p>
               </details>
           </p>  
@@ -187,7 +209,7 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
             <br>
               <details>
               ROBOCON 2015 ASIA PACIFIC
-                <summary>Abstract  | <a href="">Report</a> | <a href="https://www.youtube.com/watch?v=vlZIPXOWXLo&feature=youtu.be&ab_channel=Technocrats">Video </a> | <a href="https://technocratsrobotics.in/">Website </a>   </summary>            
+                <summary>Abstract  | <a href="">Repository</a> | <a href="https://www.youtube.com/watch?v=vlZIPXOWXLo&feature=youtu.be&ab_channel=Technocrats">Video </a> | <a href="https://technocratsrobotics.in/">Website </a>   </summary>            
                   <p class="message">
                   ROBOCON is an Asia-Pacific robotics competition held every year with different problem statements. The problem statements are carefully curated to encourage design innovations in the field of robotics. The problem statement for the year 2015 was to make 2 robots that will play a doubles badminton match with the other team’s robots. The choice of fully automated vs manual robots was provided by the organisers. 
                   </p>
@@ -195,4 +217,70 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
           </p>  
      </td>
   </tr> 
+
+   <tr>
+       <td width="14%"  valign="top">
+            <img src="/images/projects/mindswitch.png" alt="mindswitch" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+     </td>
+     <td valign="top" width="85%">
+          <p>
+              <paper>Multi-Model Person Identification System</paper>
+              <br>  
+              <b>Prithvish V N</b>,    
+            <br>
+              <details>
+                <summary>Abstract  | <a href="">Repository</a> | <a href="">Report</a> Poster</summary>            
+                  <p class="message">
+In this project, we present an audio-visual feature-level fusion for person identification system using a combination of acoustic features, fingerprint images and 2D face images. Person identification is of paramount importance in security, surveillance, human computer interfaces, and smart spaces. There are numerous instances where a single feature, however, sometimes fails to be exact enough for identification. Also, another disadvantage of using only one feature is that the chosen feature is not always readable. Thus, a multimodal approach using three different modalities - face, voice and fingerprint - takes care of all such instances and achieves greater accuracy than single feature systems. The speaker verification is done by extracting Mel Frequency Cepstral Coefficients followed by Support Vector Machine. The facial recognition is done using Local Binary Pattern histogram face recognizer after performing Harr cascade for face detection. The fingerprint verification is done using binarization on a grayscale image, followed by skeletonization and then the minutiae points are found using Harris corner detector. All the three above approaches are implemented on hardware using BeagleBone Black along with audio microphone and USB cameras as sensory modules. The various sensory modalities, speech, fingerprint and faces, are processed both individually and jointly and it has been observed that the performance of the multimodal approach results in improved performance in the identification of
+the participants. Our system achieves around 90% recognition and verification rates on natural
+real-time input with 10 registered clients.
+                  </p>
+              </details>
+          </p>  
+     </td>
+  </tr> 
+
+       <tr>
+    <td width="14%"  valign="top">
+        <img src="/images/projects/study_i2c_msp430.png" alt="kitchen" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+     </td>
+     <td valign="top" width="85%">
+          <p>
+              <paper>Study of I2C communicaiton protocol using MSP430 and Beagle Bone Black</paper>
+              <br>  
+              <b>Prithvish V N</b>,    
+            <br>
+              <details>
+                <summary>Abstract  | <a href="https://github.com/Prithvish04/study_i2c_msp430">Report</a>  </summary>            
+                <p class="message">
+                I²C (Inter-Integrated Circuit), pronounced I-squared-C, is a multi-master, multi-slave single-ended, serial computer bus invented by Philips Semiconductor (now NXP Semiconductors). It is typically used for attaching lower-speed peripheral ICs to processors and microcontrollers in short-distance, intra-board communication. Alternatively, I²C is spelled I2C (pronounced I-two-C) or IIC (pronounced I-I-C). BBB, MSP430 and MPU-6050 having the same operating voltage have been selected as the test and study purpose. In our test BBB is configured as the Master and MPU and MSP being the slaves. Register for MSP430 I2c communication and I2Ctools for BBB will be studied and CCS and Putty will be the Software tools used. The Coding on BBB is done in C. Various modes of I2C were tested and MPU was studied via the help of datasheet. The Acceleration values on MPU and temperature values on MSP was acquired on BBB and displayed.
+                </p>
+              </details>
+          </p>  
+     </td>
+  </tr> 
+
+
+       <tr>
+    <td width="14%"  valign="top">
+        <img src="/images/projects/band_pass_filter_hfss.png" alt="kitchen" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+     </td>
+     <td valign="top" width="85%">
+          <p>
+              <paper>Band-pass filter design for microwave frequency using HFSS</paper>
+              <br>  
+              <b>Prithvish V N</b>,    
+            <br>
+              <details>
+                <summary>Abstract  | <a href="https://github.com/Prithvish04/HFSS_projects/blob/main/13BEC1100_1138_1113_FINAL_REPORT.pdf">Report</a>  </summary>            
+                <p class="message">
+                At the receiver side there is a requirement to filter out the noises and pass only the desired signal frequency for processing. Hence, a Band Pass Filter (BPF) is required for the same. In the present project the designing of a compact microwave parallel edge coupled line BPF has been discussed and implemented. The BPF consists of a 4-parallel coupled line pairs designed for a Chebyshev response at a center frequency of 2.48 GHz with a fractional bandwidth of 10%. The filter has been implemented using FR4 substrate of dielectric constant 4.2. The physical parameters of the parallel coupled line filter sections have been simulated using the HFSS software to provide the closest values of the band pass filter prototype values.
+                </p>
+              </details>
+          </p>  
+     </td>
+  </tr> 
+
 </table>
+
+
