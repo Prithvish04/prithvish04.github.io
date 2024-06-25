@@ -220,7 +220,7 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
 
    <tr>
        <td width="14%"  valign="top">
-            <img src="/images/projects/mindswitch.png" alt="mindswitch" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+            <img src="/images/projects/person_id.png" alt="mindswitch" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
           <p>
@@ -260,6 +260,90 @@ real-time input with 10 registered clients.
      </td>
   </tr> 
 
+
+       <tr>
+    <td width="14%"  valign="top">
+        <img src="/images/projects/study_i2c_msp430.png" alt="kitchen" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+     </td>
+     <td valign="top" width="85%">
+          <p>
+              <paper>Study of I2C communicaiton protocol using MSP430 and Beagle Bone Black</paper>
+              <br>  
+              <b>Prithvish V N</b>,    
+            <br>
+              <details>
+                <summary>Abstract  | <a href="https://github.com/Prithvish04/study_i2c_msp430">Report</a>  </summary>            
+                <p class="message">
+
+                </p>
+              </details>
+          </p>  
+     </td>
+  </tr> 
+
+
+       <tr>
+    <td width="14%"  valign="top">
+        <img src="/images/projects/vending.png" alt="vending" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+     </td>
+     <td valign="top" width="85%">
+          <p>
+              <paper>Vending Machine</paper>
+              <br>  
+              <b>Prithvish V N</b>,    
+            <br>
+              <details>
+                <summary>Abstract  | <a href="https://github.com/Prithvish04/vending_machine">Report</a>  </summary>            
+                <p class="message">
+                The project is a replication of vending machines used in Metro localities such as Delhi, Mumbai, Bangalore and other cities abroad. Vending machine is an automated machine that dispenses products in exchange of money that is put into the system. In other words it’s a money operated automated machine for selling merchandise. The task comprises of three stages –finite state machine, followed by sensing hardware and then finally product dispensing mechanism. The project is majorly based on the finite state machine to maneuver the system. The system senses two currency notes (Rs.10 and Rs.20) using SIFT algorithm. The system is efficient in dispensing products more like wafers and chocolates. As per the design the machine will dispense a product only for amount exactly Rs.30. The machine additionally consists of a cancelling mechanism which cancels the order and returns the amount back to the customer.
+                </p>
+              </details>
+          </p>  
+     </td>
+  </tr> 
+        <tr>
+    <td width="14%"  valign="top">
+        <img src="/images/projects/gesture.png" alt="gesture" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+     </td>
+     <td valign="top" width="85%">
+          <p>
+              <paper>Gesture based locking system</paper>
+              <br>  
+              <b>Prithvish V N</b>,    
+            <br>
+              <details>
+                <summary>Abstract  | <a href="https://github.com/Prithvish04/gesture_lock">Report</a>  </summary>            
+                <p class="message">
+This project aims to design a revolutionary security system that shall change the present day scenario of opening
+door locks. A mere gesture of your hand shall unlock the door on which the system is installed. The basic prototype will consist of a small cubical box with laser and LDR array. When the proper Finger gesture is produced in the box, a comparison is made based on a previous pattern recorded. A Stack and polling based concept of the microcontroller/microprocessor will come into picture while interfacing the Laser-LDR system. On circumstantial failure of the above Sub-System after a particular amount of trials, the locking system starts its own access point network through which the owner can connect via his phone. Further a custom made app will be needed to unlock the lock. In this process the lock system will start its own server and the owner’s phone shall act as client. On the door opening request of the client the server will open and close the door when properly authenticated by the correct password. The level of security in such a system is doubled in the second subsystem with a 2 level authentication by the WEP encryption based WIFI security and the App Passkey security
+                </p>
+              </details>
+          </p>  
+     </td>
+  </tr> 
+
+
+
+
+     <tr>
+    <td width="14%"  valign="top">
+        <img src="/images/projects/horn_antenna.png" alt="kitchen" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+     </td>
+     <td valign="top" width="85%">
+          <p>
+              <paper>Design for a horn Antenna</paper>
+              <br>  
+              <b>Prithvish V N</b>,    
+            <br>
+              <details>
+                <summary>Abstract  | <a href="https://github.com/Prithvish04/HFSS_projects/blob/main/horn_antenna_report.pdf">Report</a>  </summary>            
+                <p class="message">
+                Horn antennas are extremely popular in the microwave region. An aperture antenna contains some sort of opening through which electromagnetic waves are transmitted or received. One of the examples of aperture antenna is horns. The analysis of aperture antennas is typically quite different than the analysis of wire antennas. So in this project, the team decided to simulate a pyramidal horn antenna in HFSS 13, since pyramidal antennas are widely used for communication purpose. The resonating frequency was fixed at 10GHz and the 3D Polar plot, rectangular plot for impedance of horn antenna, Gain v/s Frequency plot, directivity plot and antenna parameters were obtained for a practical design of pyramidal horn antenna.
+                </p>
+              </details>
+          </p>  
+     </td>
+  </tr> 
 
        <tr>
     <td width="14%"  valign="top">
