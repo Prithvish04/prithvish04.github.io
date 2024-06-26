@@ -114,7 +114,7 @@ paper {
 
      <tr>
     <td width="14%"  valign="top">
-        <img src="/images/projects/kitchen_cleaning.png" alt="kitchen" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+        <img src="/images/projects/.png" alt="kitchen" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
           <p>
@@ -148,11 +148,7 @@ paper {
               <details>
                 <summary>Abstract  | <a href="https://github.com/Prithvish04/">Code & blog</a>  </summary>            
                 <p class="message">
-                This system validation project will focus solely on the launch segment of the Starliner Mission. The launch
-                starts on the ground and terminates when the Service and Crew Modules (SCM) are detached from the Orbital
-                Module (OM). The main events as listed below will be modelled in mCRL2 using four independent controllers
-                running in parallel. As further described in section 2, these consist of a Flight Controller (FC), Booster Module
-                Controller (BMC), Launch Module Controller (LMC), and Orbital Module Controller (OMC)
+                This system validation project will focus solely on the launch segment of the Starliner Mission. The launch starts on the ground and terminates when the Service and Crew Modules (SCM) are detached from the Orbital Module (OM). The main events as listed below will be modelled in mCRL2 using four independent controllers running in parallel. As further described in section 2, these consist of a Flight Controller (FC), Booster Module Controller (BMC), Launch Module Controller (LMC), and Orbital Module Controller (OMC)
                 </p>
               </details>
           </p>  
@@ -175,6 +171,7 @@ paper {
                 <p class="message">
 
 
+
                 </p>
               </details>
           </p>  
@@ -183,23 +180,65 @@ paper {
 
     <tr>
     <td width="14%"  valign="top">
-        <img src="/images/projects/rtems.png" alt="rtems" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+        <img src="/images/projects/acs_1.png" alt="rtems" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
           <p>
-              <paper>RTEMS - RTOS Survey</paper>
+              <paper>Acceleration with SSE/AVX/AVX2 OpenMP, OpenCL</paper>
               <br>  
               <b>Prithvish V N</b>,    
             <br>
               <details>
                 <summary>Abstract  | <a href="https://github.com/Prithvish04/">Code & blog</a>  </summary>            
                 <p class="message">
-                This report is focused on the analysis of various computational techniques by implementing matrix multiplication. Our goal is to accelerate and optimize both single-precision and double precision matrix multiplication by the use of Intel SSE/AVX/AVX2, OpenMP and OpenCL on multi-core processor systems. We state our observations of the performance of each implementation and analyze why and when which imple-mentation works better. We benchmarked the implementations with that of a native matrix multiplication wherein no optimizations have been applied. We then conclude with a brief discussion of the current trend on how each of these paradigms are being used currently
+                This project is focused on the analysis of various computational techniques by implementing matrix multiplication. Our goal is to accelerate and optimize both single-precision and double precision matrix multiplication by the use of Intel SSE/AVX/AVX2, OpenMP and OpenCL on multi-core processor systems. We state our observations of the performance of each implementation and analyze why and when which imple-mentation works better. We benchmarked the implementations with that of a native matrix multiplication wherein no optimizations have been applied. We then conclude with a brief discussion of the current trend on how each of these paradigms are being used currently. 
                 </p>
               </details>
           </p>  
      </td>
   </tr> 
+
+      <tr>
+    <td width="14%"  valign="top">
+        <img src="/images/projects/acs_2.png" alt="rtems" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+     </td>
+     <td valign="top" width="85%">
+          <p>
+              <paper>Accelerating image processing algorithms with CUDA</paper>
+              <br>  
+              <b>Prithvish V N</b>,    
+            <br>
+              <details>
+                <summary>Abstract  | <a href="https://github.com/Prithvish04/">Code & blog</a>  </summary>            
+                <p class="message">
+                This report is focused on the implementation and analysis of the optimization of a basic image processing algorithm using NVIDIA CUDA toolkit. CUDA is a parallel computing platform and programming model developed by NVIDIA for general computing on graphical processing units (GPUs). With CUDA, it is possible to dramatically speed up computing applications by harnessing the power of GPUs. In our case, the image processing algorithm consists of 4 stages namely histogram calculation, contrast enhancement, ripple effect and Gaussian blurring. We provide the optimized algorithm and compare the performance of the with that of the serial execution.
+                </p>
+              </details>
+          </p>  
+     </td>
+  </tr> 
+
+       <tr>
+    <td width="14%"  valign="top">
+        <img src="/images/projects/acs_2.png" alt="rtems" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+     </td>
+     <td valign="top" width="85%">
+          <p>
+              <paper>Acceleration of a Convolution Neural Network</paper>
+              <br>  
+              <b>Prithvish V N</b>,    
+            <br>
+              <details>
+                <summary>Abstract  | <a href="https://github.com/Prithvish04/">Code & blog</a>  </summary>            
+                <p class="message">
+                This report is focused on the implementation and analysis of the optimization of a basic CNN classification algorithm. CUDA is a parallel computing platform and programming model developed by NVIDIA for general computing on graphical processing units (GPUs). With CUDA, it is possible to dramatically speed up computing applications by harnessing the power of GPUs. We provide the optimized algorithm and com-pare the performance of the same with that of the base- line serial implementation. We also try to use various other paradigms whenever possible to get the maxi-mum performance out of the algorithm. 
+                </p>
+              </details>
+          </p>  
+     </td>
+  </tr> 
+
+
 
 
 
