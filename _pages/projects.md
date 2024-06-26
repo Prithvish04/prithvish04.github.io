@@ -165,11 +165,12 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
           <p>
               <paper>MindSwitch</paper>
               <br>  
-              <b>Prithvish V N</b>,    
+              <b>Prithvish V N</b>,
             <br>
               <details>
-                <summary>Abstract  | <a href="https://www.youtube.com/watch?v=Sq5F-VKy3Hg&t=72s&ab_channel=Prithvish">Video</a> | <a href="">Poster</a> Poster</summary>            
+                <summary>Abstract  | <a href="https://www.youtube.com/watch?v=Sq5F-VKy3Hg&t=72s&ab_channel=Prithvish">Video</a> | <a href="https://github.com/Prithvish04/NIYANTRA_mindswitch">Repository</a> <a href ="https://github.com/Prithvish04/NIYANTRA_mindswitch/blob/main/docs/mindswitch_poster_final.pdf"> Poster</a> <a href="">Report </a></summary>            
                   <p class="message">
+                  
 
                   </p>
               </details>
@@ -231,10 +232,8 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
               <details>
                 <summary>Abstract  | <a href="">Repository</a> | <a href="">Report</a> Poster</summary>            
                   <p class="message">
-In this project, we present an audio-visual feature-level fusion for person identification system using a combination of acoustic features, fingerprint images and 2D face images. Person identification is of paramount importance in security, surveillance, human computer interfaces, and smart spaces. There are numerous instances where a single feature, however, sometimes fails to be exact enough for identification. Also, another disadvantage of using only one feature is that the chosen feature is not always readable. Thus, a multimodal approach using three different modalities - face, voice and fingerprint - takes care of all such instances and achieves greater accuracy than single feature systems. The speaker verification is done by extracting Mel Frequency Cepstral Coefficients followed by Support Vector Machine. The facial recognition is done using Local Binary Pattern histogram face recognizer after performing Harr cascade for face detection. The fingerprint verification is done using binarization on a grayscale image, followed by skeletonization and then the minutiae points are found using Harris corner detector. All the three above approaches are implemented on hardware using BeagleBone Black along with audio microphone and USB cameras as sensory modules. The various sensory modalities, speech, fingerprint and faces, are processed both individually and jointly and it has been observed that the performance of the multimodal approach results in improved performance in the identification of
-the participants. Our system achieves around 90% recognition and verification rates on natural
-real-time input with 10 registered clients.
-                  </p>
+                In this project, we present an audio-visual feature-level fusion for person identification system using a combination of acoustic features, fingerprint images and 2D face images. Person identification is of paramount importance in security, surveillance, human computer interfaces, and smart spaces. There are numerous instances where a single feature, however, sometimes fails to be exact enough for identification. Also, another disadvantage of using only one feature is that the chosen feature is not always readable. Thus, a multimodal approach using three different modalities - face, voice and fingerprint - takes care of all such instances and achieves greater accuracy than single feature systems. The speaker verification is done by extracting Mel Frequency Cepstral Coefficients followed by Support Vector Machine. The facial recognition is done using Local Binary Pattern histogram face recognizer after performing Harr cascade for face detection. The fingerprint verification is done using binarization on a grayscale image, followed by skeletonization and then the minutiae points are found using Harris corner detector. All the three above approaches are implemented on hardware using BeagleBone Black along with audio microphone and USB cameras as sensory modules. The various sensory modalities, speech, fingerprint and faces, are processed both individually and jointly and it has been observed that the performance of the multimodal approach results in improved performance in the identification of the participants. Our system achieves around 90% recognition and verification rates on natural real-time input with 10 registered clients.
+                </p>
               </details>
           </p>  
      </td>
@@ -251,7 +250,7 @@ real-time input with 10 registered clients.
               <b>Prithvish V N</b>,    
             <br>
               <details>
-                <summary>Abstract  | <a href="https://github.com/Prithvish04/study_i2c_msp430">Report</a>  </summary>            
+                <summary>Abstract  | <a href="https://github.com/Prithvish04/study_I2C_msp430/blob/main/Advanced_microcontroller_report.pdf">Report</a>  </summary>            
                 <p class="message">
                 I²C (Inter-Integrated Circuit), pronounced I-squared-C, is a multi-master, multi-slave single-ended, serial computer bus invented by Philips Semiconductor (now NXP Semiconductors). It is typically used for attaching lower-speed peripheral ICs to processors and microcontrollers in short-distance, intra-board communication. Alternatively, I²C is spelled I2C (pronounced I-two-C) or IIC (pronounced I-I-C). BBB, MSP430 and MPU-6050 having the same operating voltage have been selected as the test and study purpose. In our test BBB is configured as the Master and MPU and MSP being the slaves. Register for MSP430 I2c communication and I2Ctools for BBB will be studied and CCS and Putty will be the Software tools used. The Coding on BBB is done in C. Various modes of I2C were tested and MPU was studied via the help of datasheet. The Acceleration values on MPU and temperature values on MSP was acquired on BBB and displayed.
                 </p>
@@ -263,17 +262,18 @@ real-time input with 10 registered clients.
 
        <tr>
     <td width="14%"  valign="top">
-        <img src="/images/projects/study_i2c_msp430.png" alt="kitchen" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+        <img src="/images/projects/.png" alt="kitchen" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
           <p>
-              <paper>Study of I2C communicaiton protocol using MSP430 and Beagle Bone Black</paper>
+              <paper></paper>
               <br>  
               <b>Prithvish V N</b>,    
             <br>
               <details>
-                <summary>Abstract  | <a href="https://github.com/Prithvish04/study_i2c_msp430">Report</a>  </summary>            
+                <summary>Abstract  | <a href="">Report</a>  </summary>            
                 <p class="message">
+
 
                 </p>
               </details>
@@ -314,8 +314,7 @@ real-time input with 10 registered clients.
               <details>
                 <summary>Abstract  | <a href="https://github.com/Prithvish04/gesture_lock">Report</a>  </summary>            
                 <p class="message">
-This project aims to design a revolutionary security system that shall change the present day scenario of opening
-door locks. A mere gesture of your hand shall unlock the door on which the system is installed. The basic prototype will consist of a small cubical box with laser and LDR array. When the proper Finger gesture is produced in the box, a comparison is made based on a previous pattern recorded. A Stack and polling based concept of the microcontroller/microprocessor will come into picture while interfacing the Laser-LDR system. On circumstantial failure of the above Sub-System after a particular amount of trials, the locking system starts its own access point network through which the owner can connect via his phone. Further a custom made app will be needed to unlock the lock. In this process the lock system will start its own server and the owner’s phone shall act as client. On the door opening request of the client the server will open and close the door when properly authenticated by the correct password. The level of security in such a system is doubled in the second subsystem with a 2 level authentication by the WEP encryption based WIFI security and the App Passkey security
+                This project aims to design a revolutionary security system that shall change the present day scenario of opening door locks. A mere gesture of your hand shall unlock the door on which the system is installed. The basic prototype will consist of a small cubical box with laser and LDR array. When the proper Finger gesture is produced in the box, a comparison is made based on a previous pattern recorded. A Stack and polling based concept of the microcontroller/microprocessor will come into picture while interfacing the Laser-LDR system. On circumstantial failure of the above Sub-System after a particular amount of trials, the locking system starts its own access point network through which the owner can connect via his phone. Further a custom made app will be needed to unlock the lock. In this process the lock system will start its own server and the owner’s phone shall act as client. On the door opening request of the client the server will open and close the door when properly authenticated by the correct password. The level of security in such a system is doubled in the second subsystem with a 2 level authentication by the WEP encryption based WIFI security and the App Passkey security
                 </p>
               </details>
           </p>  
