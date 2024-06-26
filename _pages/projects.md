@@ -109,9 +109,12 @@ paper {
      </td>
   </tr> 
 
+
+
+
      <tr>
     <td width="14%"  valign="top">
-        <img src="/images/projects/kitchen.png" alt="kitchen" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+        <img src="/images/projects/kitchen_cleaning.png" alt="kitchen" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
           <p>
@@ -120,7 +123,55 @@ paper {
               <b>Prithvish V N</b>,    
             <br>
               <details>
-                <summary>Abstract  | <a href="https://github.com/Prithvish04/kitchen">Code & blog</a>  </summary>            
+                <summary>Abstract  | <a href="https://github.com/Prithvish04/kitchen_robot">Code & blog</a>  </summary>            
+                <p class="message">
+
+
+
+                </p>
+              </details>
+          </p>  
+     </td>
+  </tr> 
+
+
+      <tr>
+    <td width="14%"  valign="top">
+        <img src="/images/projects/system_validation.png" alt="system_validation" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+     </td>
+     <td valign="top" width="85%">
+          <p>
+              <paper>Starliner mission model in mCRL2</paper>
+              <br>  
+              <b>Prithvish V N</b>,    
+            <br>
+              <details>
+                <summary>Abstract  | <a href="https://github.com/Prithvish04/">Code & blog</a>  </summary>            
+                <p class="message">
+                This system validation project will focus solely on the launch segment of the Starliner Mission. The launch
+                starts on the ground and terminates when the Service and Crew Modules (SCM) are detached from the Orbital
+                Module (OM). The main events as listed below will be modelled in mCRL2 using four independent controllers
+                running in parallel. As further described in section 2, these consist of a Flight Controller (FC), Booster Module
+                Controller (BMC), Launch Module Controller (LMC), and Orbital Module Controller (OMC)
+                </p>
+              </details>
+          </p>  
+     </td>
+  </tr> 
+
+
+        <tr>
+    <td width="14%"  valign="top">
+        <img src="/images/projects/rtems.png" alt="rtems" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+     </td>
+     <td valign="top" width="85%">
+          <p>
+              <paper>RTEMS - RTOS Survey</paper>
+              <br>  
+              <b>Prithvish V N</b>,    
+            <br>
+              <details>
+                <summary>Abstract  | <a href="https://github.com/Prithvish04/">Code & blog</a>  </summary>            
                 <p class="message">
 
 
@@ -129,6 +180,29 @@ paper {
           </p>  
      </td>
   </tr> 
+
+    <tr>
+    <td width="14%"  valign="top">
+        <img src="/images/projects/rtems.png" alt="rtems" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+     </td>
+     <td valign="top" width="85%">
+          <p>
+              <paper>RTEMS - RTOS Survey</paper>
+              <br>  
+              <b>Prithvish V N</b>,    
+            <br>
+              <details>
+                <summary>Abstract  | <a href="https://github.com/Prithvish04/">Code & blog</a>  </summary>            
+                <p class="message">
+                This report is focused on the analysis of various computational techniques by implementing matrix multiplication. Our goal is to accelerate and optimize both single-precision and double precision matrix multiplication by the use of Intel SSE/AVX/AVX2, OpenMP and OpenCL on multi-core processor systems. We state our observations of the performance of each implementation and analyze why and when which imple-mentation works better. We benchmarked the implementations with that of a native matrix multiplication wherein no optimizations have been applied. We then conclude with a brief discussion of the current trend on how each of these paradigms are being used currently
+                </p>
+              </details>
+          </p>  
+     </td>
+  </tr> 
+
+
+
 
  <tr>
     <td width="14%"  valign="top">
