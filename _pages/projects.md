@@ -162,16 +162,14 @@ paper {
      </td>
      <td valign="top" width="85%">
           <p>
-              <paper>RTEMS - RTOS Survey</paper>
+              <paper>Optimizing the VLIW and VEX architecture </paper>
               <br>  
               <b>Prithvish V N</b>,    
             <br>
               <details>
                 <summary>Abstract  | <a href="https://github.com/Prithvish04/">Code & blog</a>  </summary>            
                 <p class="message">
-
-
-
+                This report presents our analysis of the matrix multiplication, 7x7 convolution, jpeg and greyscale benchmarks on an actual physical FPGA using the VLIW configuration. We present our configurations for three different domains, namely low-power embedded systems, high-performance scientific systems and an efficient compromise between performance, energy and area. We also present the results of our design space exploration and discuss the various hardware and software configurations used.
                 </p>
               </details>
           </p>  
@@ -220,7 +218,7 @@ paper {
 
        <tr>
     <td width="14%"  valign="top">
-        <img src="/images/projects/acs_2.png" alt="rtems" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+        <img src="/images/projects/acs_3.png" alt="rtems" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
           <p>
