@@ -141,7 +141,7 @@ paper {
      </td>
      <td valign="top" width="85%">
           <p>
-              <paper></paper>
+              <paper>Kitchen Cleaning Robot</paper>
               <br>  
               <b>Prithvish V N</b>,    
             <br>
