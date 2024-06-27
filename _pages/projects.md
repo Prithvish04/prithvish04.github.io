@@ -42,6 +42,29 @@ paper {
 #### 2020-2022
 
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
+
+
+   <tr>
+    <td width="14%"  valign="top">
+        <img src="/images/projects/drone.png" alt="drone" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+     </td>
+     <td valign="top" width="85%">
+          <p>
+              <paper>Flight control software for a Quadrupel </paper>
+              <br>  
+              <b>Prithvish V N</b>,    
+            <br>
+              <details>
+                <summary>Abstract  | <a href="https://github.com/Prithvish04/reconfigurable_project">Code & Report</a>  </summary>            
+                <p class="message">
+                This project aims to build flight control software for the operation of a Quadrupel (QR) drone from scratch. The scope of the project spans from enabling simple joystick-based manual control to implementing automatic motion stabilisation through cascaded P control. The developed software acknowledges constraints on safe states, memory, and power of the QR flight control board (FCB) by implementing several failsafe mechanisms as well as software workarounds for hardware inadequacies. The software was rigorously tested on the physical system and tuned to optimise for inconsistencies between assumptions and hardware performance. The final version of the project was able to achieve the set control goals to a reasonable extent, though further design iterations could have improved the robustness of the system and ironed out the minor flaws that were observed during its operation.
+                </p>
+              </details>
+          </p>  
+     </td>
+  </tr> 
+
+
    <tr>
     <td width="14%"  valign="top">
         <img src="/images/projects/cannyedge.png" alt="cannyedge" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
