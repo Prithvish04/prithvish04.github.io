@@ -112,9 +112,9 @@ paper {
 
 
 
-     <tr>
+  <tr>
     <td width="14%"  valign="top">
-        <img src="/images/projects/.png" alt="kitchen" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+        <img src="/images/projects/kitchen_cleaning.png" alt="kitchen" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
           <p>
@@ -123,11 +123,9 @@ paper {
               <b>Prithvish V N</b>,    
             <br>
               <details>
-                <summary>Abstract  | <a href="https://github.com/Prithvish04/kitchen_robot">Code & blog</a>  </summary>            
+                <summary>Abstract  | <a href="https://github.com/Prithvish04/kitchen_robot">Repository</a>  </summary>            
                 <p class="message">
-
-
-
+                In this project, our robot is taught to clean up a table after a meal. In particular, it needs to be able to pick up cutlery (forks, knives, spoons). For that the robot needs to determine where the cutlery is located and where the handle is. The robot has a basic down-facing camera that it can place on top of the desk to inspect an area of interest. Your task is to design the machine learning method for this perception problem. To simplify the problem, we'll only consider a single type of cutlery (your choice of fork, spoon, or knife) and a single object visible in each camera picture.
                 </p>
               </details>
           </p>  
@@ -135,7 +133,7 @@ paper {
   </tr> 
 
 
-      <tr>
+  <tr>
     <td width="14%"  valign="top">
         <img src="/images/projects/system_validation.png" alt="system_validation" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
@@ -156,13 +154,56 @@ paper {
   </tr> 
 
 
-        <tr>
+
+  <tr>
+    <td width="14%"  valign="top">
+        <img src="/images/projects/caching.png" alt="caching" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+     </td>
+     <td valign="top" width="85%">
+          <p>
+              <paper>Comparing caching methologies for multiprocessor system- A survey </paper>
+              <br>  
+              <b>Prithvish V N</b>,    
+            <br>
+              <details>
+                <summary>Abstract  | <a href="https://github.com/Prithvish04/">Report</a>  </summary>            
+                <p class="message">
+                This review paper presents an overview and comparison of three different caching methodologies for Chip Multiprocessor (CMP) systems. We first explore a framework called Cooperative Caching (CC) framework, which provided the groundwork on how to efficiently manage on-chip cache resources. We then present an improvement on the performance of the CC framework for higher number of processes using Distributed Cooperative Caching (DCC) .Finally, we present another methodology, Adaptive Set-Granular Cooperative Caching (ASCC) [3], which also improves upon CC by adopting an efficient cache spilling policy for the onchip caches. We compare the mentioned methodologies using various common evaluation metrics – percentage of performance improvement, number of off-chip misses per transaction and network latency – measured while running workloads from common SPEC benchmarks. We also show which of the methods perform the best in a given scenario using qualitative metrics. We end the review mentioning our reflections on each of the three proposals.
+                </p>
+              </details>
+          </p>  
+     </td>
+  </tr> 
+
+
+  <tr>
+    <td width="14%"  valign="top">
+        <img src="/images/projects/.png" alt="rtems" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+     </td>
+     <td valign="top" width="85%">
+          <p>
+              <paper>Optimizing the VLIW archiecture for benchmarks on a simulating platform</paper>
+              <br>  
+              <b>Prithvish V N</b>,    
+            <br>
+              <details>
+                <summary>Abstract  | <a href="https://github.com/Prithvish04/">Report</a>  </summary>            
+                <p class="message">
+
+
+                </p>
+              </details>
+          </p>  
+     </td>
+  </tr> 
+
+  <tr>
     <td width="14%"  valign="top">
         <img src="/images/projects/rtems.png" alt="rtems" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
           <p>
-              <paper>Optimizing the VLIW and VEX architecture </paper>
+              <paper>Optimizing the VLIW and VEX architecture on an FPGA  </paper>
               <br>  
               <b>Prithvish V N</b>,    
             <br>
@@ -176,7 +217,7 @@ paper {
      </td>
   </tr> 
 
-    <tr>
+  <tr>
     <td width="14%"  valign="top">
         <img src="/images/projects/acs_1.png" alt="rtems" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
@@ -196,7 +237,7 @@ paper {
      </td>
   </tr> 
 
-      <tr>
+  <tr>
     <td width="14%"  valign="top">
         <img src="/images/projects/acs_2.png" alt="rtems" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
@@ -216,7 +257,7 @@ paper {
      </td>
   </tr> 
 
-       <tr>
+  <tr>
     <td width="14%"  valign="top">
         <img src="/images/projects/acs_3.png" alt="rtems" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
@@ -235,6 +276,27 @@ paper {
           </p>  
      </td>
   </tr> 
+
+  <tr>
+    <td width="14%"  valign="top">
+        <img src="/images/projects/acs_3.png" alt="rtems" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+     </td>
+     <td valign="top" width="85%">
+          <p>
+              <paper>Acceleration of a Convolution Neural Network</paper>
+              <br>  
+              <b>Prithvish V N</b>,    
+            <br>
+              <details>
+                <summary>Abstract  | <a href="https://github.com/Prithvish04/">Code & blog</a>  </summary>            
+                <p class="message">
+                This report is focused on the implementation and analysis of the optimization of a basic CNN classification algorithm. CUDA is a parallel computing platform and programming model developed by NVIDIA for general computing on graphical processing units (GPUs). With CUDA, it is possible to dramatically speed up computing applications by harnessing the power of GPUs. We provide the optimized algorithm and com-pare the performance of the same with that of the base- line serial implementation. We also try to use various other paradigms whenever possible to get the maxi-mum performance out of the algorithm. 
+                </p>
+              </details>
+          </p>  
+     </td>
+  </tr> 
+
 
 
 
