@@ -219,7 +219,7 @@ git
   </tr> 
     <tr>
     <td width="14%"  valign="top">
-        <img src="/images/projects/VEX.png" alt="rtems" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+        <img src="/images/projects/VEX.png" alt="VEX" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
           <p>
@@ -237,11 +237,10 @@ git
      </td>
   </tr> 
 
-  
 
   <tr>
     <td width="14%"  valign="top">
-        <img src="/images/projects/VLIW_FPGA.png" alt="rtems" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+        <img src="/images/projects/VLIW_FPGA.png" alt="VLIW_FPGA" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
           <p>
@@ -259,9 +258,54 @@ git
      </td>
   </tr> 
 
+
+    <tr>
+    <td width="14%"  valign="top">
+        <img src="/images/projects/traffic_non_linear.png" alt="VLIW_FPGA" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+     </td>
+     <td valign="top" width="85%">
+          <p>
+              <paper>Discrete Time State Space Model Optimization for a traffic network - Non linear optimization</paper>
+              <br>  
+              <b>Prithvish V N</b>,    
+            <br>
+              <details>
+                <summary>Abstract  | <a href="https://github.com/Prithvish04/">Code & blog</a>  </summary>            
+                <p class="message">
+                The project focuses on optimizing an urban traffic network using nonlinear programming. It presents a discrete-time state-space model for the network, formulates and solves the optimization problem, and analyzes the results, particularly in terms of queue lengths and the number of vehicles under different scenarios. Key findings include the identification of output link capacity as a limiting factor and the observation that the total time spent in the system (TTS) remains consistent across different initial guesses for green time lengths and the no-control case. The analysis demonstrates that the optimization algorithm effectively minimizes TTS by determining optimal green time lengths for traffic signals.
+                </p>
+              </details>
+          </p>  
+     </td>
+  </tr> 
+
+
+
+    <tr>
+    <td width="14%"  valign="top">
+        <img src="/images/projects/linear_quadratic.png" alt="linear_quadratic" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+     </td>
+     <td valign="top" width="85%">
+          <p>
+              <paper> Optimization of a cooling system - Linear and quadrating programming</paper>
+              <br>  
+              <b>Prithvish V N</b>,    
+            <br>
+              <details>
+                <summary>Abstract  | <a href="https://github.com/Prithvish04/">Code & blog</a>  </summary>            
+                <p class="message">
+                The project focuses on optimizing various optimization problems within systems and control. The project covers the formulation of constraints and solutions, including integer solutions for air conditioning units to maximize power under budget and space constraints. The project also delves into discrete models, parameter identification, and converting problems into forms suitable for quadratic programming using MATLAB. The overarching goal is to minimize the quadratic cost function while adhering to thermal comfort bounds and energy input limits. The project emphasizes the application of these optimization techniques in practical engineering scenarios.
+                </p>
+              </details>
+          </p>  
+     </td>
+  </tr> 
+
+
+
   <tr>
     <td width="14%"  valign="top">
-        <img src="/images/projects/acs_1.png" alt="rtems" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+        <img src="/images/projects/acs_1.png" alt="acs_1" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
           <p>
@@ -281,7 +325,7 @@ git
 
   <tr>
     <td width="14%"  valign="top">
-        <img src="/images/projects/acs_2.png" alt="rtems" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+        <img src="/images/projects/acs_2.png" alt="acs_2" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
           <p>
@@ -301,7 +345,7 @@ git
 
   <tr>
     <td width="14%"  valign="top">
-        <img src="/images/projects/acs_3.png" alt="rtems" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+        <img src="/images/projects/acs_3.png" alt="acs_3" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
           <p>
