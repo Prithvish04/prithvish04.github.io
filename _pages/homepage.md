@@ -48,10 +48,8 @@ I did my master thesis with [Interuniversity Microelectronic Center](https://www
  My Resume/CV can be found [here](/docs/CV_Prithvish_June_2024_.pdf).
 <br>
 
-
 ### Research Work
 Click [here](/publication) for all the publications.
-
 
 ### Projects 
 Click [here](/projects) for all the projects.

@@ -217,6 +217,48 @@ paper {
      </td>
   </tr> 
 
+      </tr> 
+    <tr>
+    <td width="14%"  valign="top">
+        <img src="/images/projects/rtems.png" alt="rtems" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+     </td>
+     <td valign="top" width="85%">
+          <p>
+              <paper>Optimization and Overhead Analysis of Real-Time Systems Using Earliest Deadline First Scheduling</paper>
+              <br>  
+              <b>Prithvish V N</b>,    
+            <br>
+              <details>
+                <summary>Brief  | <a href="https://github.com/Prithvish04/">Report</a>  </summary>            
+                <p class="message">
+                This project explores the calculation and impact of system overhead in real-time systems, with a focus on the implementation of the Earliest Deadline First (EDF) scheduling algorithm. The overhead encompasses context switching, scheduling functions, and timer interrupt handling. Using a timetracker function, we measure and analyze the overhead as a function of the number of tasks, demonstrating an increase in overhead with the number of tasks due to more frequent scheduler and interrupt invocations. The project also examines how task set parameters, such as periods and execution times, influence the total system overhead, revealing that shorter periods result in higher overhead. Detailed implementation of the EDF scheduler is provided, showcasing how it manages task execution based on deadlines. The findings are supported by plots illustrating the correlation between increased task frequency and higher overhead, offering insights into optimizing real-time system performance.
+                </p>
+              </details>
+          </p>  
+     </td>
+  </tr> 
+
+</tr> 
+    <tr>
+    <td width="14%"  valign="top">
+        <img src="/images/projects/rtems.png" alt="rtems" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+     </td>
+     <td valign="top" width="85%">
+          <p>
+              <paper>Comparative Analysis of Real-Time Scheduling Policies: SCHED_FIFO, SCHED_RR, and SCHED_DEADLINE</paper>
+              <br>  
+              <b>Prithvish V N</b>,    
+            <br>
+              <details>
+                <summary>Brief  | <a href="https://github.com/Prithvish04/">Report</a>  </summary>            
+                <p class="message">
+                The project presents a comparative analysis of real-time scheduling policies SCHED_FIFO, SCHED_RR, and SCHED_DEADLINE, evaluating their performance through a set of periodic tasks with varying priorities and computation times. SCHED_FIFO prioritizes tasks based on arrival times, executing higher-priority tasks first, while SCHED_RR allocates fixed time slices to tasks in a cyclic manner, promoting equitable CPU time distribution at the cost of increased context-switching overhead. SCHED_DEADLINE, utilizing Global Earliest Deadline First (GEDF) and Constant Bandwidth Server (CBS), ensures that tasks meet their deadlines without exceeding their runtime limits. Detailed overhead calculations reveal the impact of scheduler and timer interrupts on system performance, with analyses illustrating how task parameters influence total overhead. The findings, supported by plots of overhead percentages relative to task numbers, highlight the strengths and limitations of each scheduling policy, offering insights for optimizing real-time system performance.
+                </p>
+              </details>
+          </p>  
+     </td>
+  </tr> 
+
     <tr>
     <td width="14%"  valign="top">
         <img src="/images/projects/VEX.png" alt="VEX" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
@@ -251,7 +293,7 @@ paper {
               <details>
                 <summary>Brief  | <a href="https://github.com/Prithvish04/lab_reports/blob/main/modern_computer_architecture/MCA_VEX_FPGA.pdf">Report</a>  </summary>            
                 <p class="message">
-                This report presents our analysis of the matrix multiplication, 7x7 convolution, jpeg and greyscale benchmarks on an actual physical FPGA using the VLIW configuration. We present our configurations for three different domains, namely low-power embedded systems, high-performance scientific systems and an efficient compromise between performance, energy and area. We also present the results of our design space exploration and discuss the various hardware and software configurations used.
+                This project presents our analysis of the matrix multiplication, 7x7 convolution, jpeg and greyscale benchmarks on an actual physical FPGA using the VLIW configuration. We present our configurations for three different domains, namely low-power embedded systems, high-performance scientific systems and an efficient compromise between performance, energy and area. We also present the results of our design space exploration and discuss the various hardware and software configurations used.
                 </p>
               </details>
           </p>  
@@ -329,7 +371,7 @@ paper {
      </td>
      <td valign="top" width="85%">
           <p>
-              <paper>Accelerating image processing algorithms with CUDA</paper>
+            <paper>Accelerating image processing algorithms with CUDA</paper>
               <br>  
               <b>Prithvish V N</b>,    
             <br>
@@ -568,7 +610,7 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
               <details>
                 <summary>Brief  |  <a href="https://github.com/Prithvish04/channel_encoding_veterbi_decoding">Repository</a>| <a href="https://github.com/Prithvish04/channel_encoding_veterbi_decoding/blob/main/1138_1100_1113_REPORT.pdf">Report</a>  </summary>            
                 <p class="message">
-                The project is a replication of vending machines used in Metro localities such as Delhi, Mumbai, Bangalore and other cities abroad. Vending machine is an automated machine that dispenses products in exchange of money that is put into the system. In other words it’s a money operated automated machine for selling merchandise. The task comprises of three stages –finite state machine, followed by sensing hardware and then finally product dispensing mechanism. The project is majorly based on the finite state machine to maneuver the system. The system senses two currency notes (Rs.10 and Rs.20) using SIFT algorithm. The system is efficient in dispensing products more like wafers and chocolates. As per the design the machine will dispense a product only for amount exactly Rs.30. The machine additionally consists of a cancelling mechanism which cancels the order and returns the amount back to the customer.
+This project implements convolutional encoding and decoding using Viterbi algorithm on FPGA (Field Programmable Gate Array). These are popular techniques for channel encoding and decoding. The purpose of channel encoding is to find codes which transmit quickly, contain many valid code words and can correct or at least detect many errors. Channel encoding adds extra data bits (redundancy) to make the transmissio nof data more robust to disturbances present on the transmission channel. Channel decoder attempts to reconstruct the original information sequence from the knowledge of the channel encoding algorithm. Convolutional coding is a type of error correcting codes that generates parity symbols via the sliding application of a Boolean polynomial function to a data stream. Viterbi algorithm aims at finding the mostlikely transmitted message sequence minimizing the BER. Though it is resource consuming but it does themaximum likelihood decoding. It can be a hard decision decoding (using Hamming distance) or a softdecision decoding (using Euclidean distance). These are the techniques commonly used in popular wirelessstandards and satellite communication. This technique is used in various space missions such as marspathfinder, mars exploration rover, cassini probe to Saturn.In the project, a convolutional code with code rate ½ and constraint length 3 is implemented on FPGA(SPARTAN 3E) and the same is decoded using hard decision Viterbi decoder                
                 </p>
               </details>
           </p>  
