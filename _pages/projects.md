@@ -45,7 +45,7 @@ paper {
 
 
    <tr>
-    <td width="14%"  valign="top">
+    <td width="20%"  valign="top">
         <img src="/images/projects/drone.png" alt="drone" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
@@ -66,7 +66,7 @@ paper {
 
 
    <tr>
-    <td width="14%"  valign="top">
+    <td width="20%"  valign="top">
         <img src="/images/projects/cannyedge.png" alt="cannyedge" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
@@ -93,7 +93,7 @@ paper {
 
   
   <tr>
-    <td width="14%"  valign="top">
+    <td width="20%"  valign="top">
         <img src="/images/projects/low_power_mips.png" alt="low_power_mips" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
@@ -113,7 +113,7 @@ paper {
   </tr> 
  
    <tr>
-    <td width="14%"  valign="top">
+    <td width="20%"  valign="top">
         <img src="/images/projects/deeporchards.png" alt="deeporchards" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
@@ -136,7 +136,7 @@ paper {
 
 
   <tr>
-    <td width="14%"  valign="top">
+    <td width="20%"  valign="top">
         <img src="/images/projects/kitchen_cleaning.png" alt="kitchen" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
@@ -157,7 +157,7 @@ paper {
 
 
   <tr>
-    <td width="14%"  valign="top">
+    <td width="20%"  valign="top">
         <img src="/images/projects/system_validation.png" alt="system_validation" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
@@ -179,7 +179,7 @@ paper {
 
 
   <tr>
-    <td width="14%"  valign="top">
+    <td width="20%"  valign="top">
         <img src="/images/projects/caching.png" alt="caching" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
@@ -198,7 +198,7 @@ paper {
      </td>
   </tr> 
     <tr>
-    <td width="14%"  valign="top">
+    <td width="20%"  valign="top">
         <img src="/images/projects/rtems.png" alt="rtems" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
@@ -219,7 +219,7 @@ paper {
 
       </tr> 
     <tr>
-    <td width="14%"  valign="top">
+    <td width="20%"  valign="top">
         <img src="/images/projects/rtems.png" alt="rtems" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
@@ -240,7 +240,7 @@ paper {
 
 </tr> 
     <tr>
-    <td width="14%"  valign="top">
+    <td width="20%"  valign="top">
         <img src="/images/projects/rtems.png" alt="rtems" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
@@ -260,7 +260,7 @@ paper {
   </tr> 
 
     <tr>
-    <td width="14%"  valign="top">
+    <td width="20%"  valign="top">
         <img src="/images/projects/VEX.png" alt="VEX" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
@@ -281,7 +281,7 @@ paper {
 
 
   <tr>
-    <td width="14%"  valign="top">
+    <td width="20%"  valign="top">
         <img src="/images/projects/VLIW_FPGA.png" alt="VLIW_FPGA" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
@@ -302,7 +302,7 @@ paper {
 
 
     <tr>
-    <td width="14%"  valign="top">
+    <td width="20%"  valign="top">
         <img src="/images/projects/traffic_non_linear.png" alt="VLIW_FPGA" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
@@ -324,7 +324,7 @@ paper {
 
 
     <tr>
-    <td width="14%"  valign="top">
+    <td width="20%"  valign="top">
         <img src="/images/projects/linear_quadratic.png" alt="linear_quadratic" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
@@ -346,7 +346,7 @@ paper {
 
 
   <tr>
-    <td width="14%"  valign="top">
+    <td width="20%"  valign="top">
         <img src="/images/projects/acs_1.png" alt="acs_1" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
@@ -366,7 +366,7 @@ paper {
   </tr> 
 
   <tr>
-    <td width="14%"  valign="top">
+    <td width="20%"  valign="top">
         <img src="/images/projects/acs_2.png" alt="acs_2" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
@@ -386,7 +386,7 @@ paper {
   </tr> 
 
   <tr>
-    <td width="14%"  valign="top">
+    <td width="20%"  valign="top">
         <img src="/images/projects/acs_3.png" alt="acs_3" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
@@ -406,7 +406,7 @@ paper {
   </tr> 
 
  <tr>
-    <td width="14%"  valign="top">
+    <td width="20%"  valign="top">
         <img src="/images/projects/ethereal.png" alt="ethereal" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
@@ -433,7 +433,7 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
 
 
  <tr>
-       <td width="14%"  valign="top">
+       <td width="20%"  valign="top">
             <img src="/images/projects/mindswitch.png" alt="mindswitch" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
@@ -453,7 +453,7 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
   </tr> 
 
    <tr>
-       <td width="14%"  valign="top">
+       <td width="20%"  valign="top">
             <img src="/images/projects/dmd4dmd.png" alt="dmd4dmd" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
@@ -473,7 +473,7 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
   </tr> 
 
    <tr>
-       <td width="14%"  valign="top">
+       <td width="20%"  valign="top">
             <img src="/images/projects/badminton.png" alt="DIA" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
@@ -493,7 +493,7 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
   </tr> 
 
   <tr>
-    <td width="14%"  valign="top">
+    <td width="20%"  valign="top">
       <img src="/images/projects/person_id.png" alt="mindswitch" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
@@ -513,7 +513,7 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
   </tr> 
 
   <tr>
-    <td width="14%"  valign="top">
+    <td width="20%"  valign="top">
         <img src="/images/projects/study_i2c_msp430.png" alt="kitchen" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
@@ -534,7 +534,7 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
 
 
   <tr>
-    <td width="14%"  valign="top">
+    <td width="20%"  valign="top">
         <img src="/images/projects/8051.png" alt="8051" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
@@ -556,7 +556,7 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
 
 
   <tr>
-    <td width="14%"  valign="top">
+    <td width="20%"  valign="top">
         <img src="/images/projects/vending.png" alt="vending" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
@@ -577,7 +577,7 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
 
 
          <tr>
-    <td width="14%"  valign="top">
+    <td width="20%"  valign="top">
         <img src="/images/projects/voice.png" alt="voice" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
@@ -598,7 +598,7 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
 
 
   <tr>
-    <td width="14%"  valign="top">
+    <td width="20%"  valign="top">
         <img src="/images/projects/viterbi.png" alt="viterbi" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
@@ -619,7 +619,7 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
 
 
         <tr>
-    <td width="14%"  valign="top">
+    <td width="20%"  valign="top">
         <img src="/images/projects/gesture.png" alt="gesture" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
@@ -642,7 +642,7 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
 
 
      <tr>
-    <td width="14%"  valign="top">
+    <td width="20%"  valign="top">
         <img src="/images/projects/horn_antenna.png" alt="kitchen" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
@@ -662,7 +662,7 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
   </tr> 
 
   <tr>
-    <td width="14%"  valign="top">
+    <td width="20%"  valign="top">
         <img src="/images/projects/band_pass_filter_hfss.png" alt="kitchen" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
