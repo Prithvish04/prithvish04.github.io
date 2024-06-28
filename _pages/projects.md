@@ -123,7 +123,7 @@ paper {
               <b>Prithvish V N</b>,    
             <br>
               <details>
-                <summary>Brief  | <a href="https://github.com/Prithvish04/deep_orchards">Code & blog</a>  </summary>            
+                <summary>Brief  | <a href="https://github.com/Prithvish04/deep_orchards">Repository & blog</a>  </summary>            
                 <p class="message">
                 Terms like Deep learning and machine learning have been quite popular these days. There have been several advancements in the field over the last couple of years. Having seen several fields slowly adapting techniques to solve problems via deep learning and machine learning encouraged encouraged us to take up deep learning courses in our Masters. While courses give you a basic understanding on a subject, Projects have always been an interesting way of learning new concepts hence we took up a challenging project to integrate the Deep Orchards dataset with the Faster RCNN network and reproduce the research paper. The work takes you through the very basic steps one should follow if you are a newbie in deep learning.
                 </p>
@@ -167,7 +167,7 @@ paper {
               <b>Prithvish V N</b>,    
             <br>
               <details>
-                <summary>Brief  | <a href="https://github.com/Prithvish04/starliner_mcrl2/">Code & blog</a>  </summary>            
+                <summary>Brief  | <a href="https://github.com/Prithvish04/starliner_mcrl2/">Repository</a>  </summary>            
                 <p class="message">
                 This system validation project will focus solely on the launch segment of the Starliner Mission. The launch starts on the ground and terminates when the Service and Crew Modules (SCM) are detached from the Orbital Module (OM). The main events as listed below will be modelled in mCRL2 using four independent controllers running in parallel. As further described in section 2, these consist of a Flight Controller (FC), Booster Module Controller (BMC), Launch Module Controller (LMC), and Orbital Module Controller (OMC)
                 </p>
@@ -436,13 +436,12 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
      </td>
      <td valign="top" width="85%">
           <p>
-              <paper>Team Technocrats - Badminton Playing Robots </paper>
+              <paper>Team Technocrats - Badminton Playing Robots (ROBOCON 2015 ASIA PACIFIC)</paper>
               <br>  
               <b>Prithvish V N</b>,    
             <br>
               <details>
-              ROBOCON 2015 ASIA PACIFIC
-                <summary>Brief  | <a href="">Repository</a> | <a href="https://www.youtube.com/watch?v=vlZIPXOWXLo&feature=youtu.be&ab_channel=Technocrats">Video </a> | <a href="https://technocratsrobotics.in/">Website </a>   </summary>            
+                <summary>Brief  | <a href="https://github.com/Prithvish04/Badminton_playing_robots">Repository</a> | <a href="https://www.youtube.com/watch?v=vlZIPXOWXLo&feature=youtu.be&ab_channel=Technocrats">Video </a> | <a href="https://technocratsrobotics.in/">Website </a>   </summary>            
                   <p class="message">
                   ROBOCON is an Asia-Pacific robotics competition held every year with different problem statements. The problem statements are carefully curated to encourage design innovations in the field of robotics. The problem statement for the year 2015 was to make 2 robots that will play a doubles badminton match with the other team’s robots. The choice of fully automated vs manual robots was provided by the organisers. 
                   </p>
@@ -462,7 +461,7 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
               <b>Prithvish V N</b>,    
             <br>
               <details>
-                <summary>Brief  | <a href="">Repository</a> | <a href="">Report</a> Poster</summary>            
+                <summary>Brief  | <a href="https://github.com/Prithvish04/multimodel_person_identification/">Repository</a> | <a href="">Report</a> Poster</summary>            
                   <p class="message">
                 In this project, we present an audio-visual feature-level fusion for person identification system using a combination of acoustic features, fingerprint images and 2D face images. Person identification is of paramount importance in security, surveillance, human computer interfaces, and smart spaces. There are numerous instances where a single feature, however, sometimes fails to be exact enough for identification. Also, another disadvantage of using only one feature is that the chosen feature is not always readable. Thus, a multimodal approach using three different modalities - face, voice and fingerprint - takes care of all such instances and achieves greater accuracy than single feature systems. The speaker verification is done by extracting Mel Frequency Cepstral Coefficients followed by Support Vector Machine. The facial recognition is done using Local Binary Pattern histogram face recognizer after performing Harr cascade for face detection. The fingerprint verification is done using binarization on a grayscale image, followed by skeletonization and then the minutiae points are found using Harris corner detector. All the three above approaches are implemented on hardware using BeagleBone Black along with audio microphone and USB cameras as sensory modules. The various sensory modalities, speech, fingerprint and faces, are processed both individually and jointly and it has been observed that the performance of the multimodal approach results in improved performance in the identification of the participants. Our system achieves around 90% recognition and verification rates on natural real-time input with 10 registered clients.
                 </p>
@@ -494,7 +493,7 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
 
        <tr>
     <td width="14%"  valign="top">
-        <img src="/images/projects/.png" alt="kitchen" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+        <img src="/images/projects/8051.png" alt="8051" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
           <p>
@@ -503,7 +502,7 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
               <b>Prithvish V N</b>,    
             <br>
               <details>
-                <summary>Brief  | <a href="">Report</a>  </summary>            
+                <summary>Brief  | <a href="https://github.com/Prithvish04/micro_8051_msp430_bbb">Repository</a>  </summary>            
                 <p class="message">
 
 
@@ -533,6 +532,50 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
           </p>  
      </td>
   </tr> 
+
+
+         <tr>
+    <td width="14%"  valign="top">
+        <img src="/images/projects/voice.png" alt="voice" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+     </td>
+     <td valign="top" width="85%">
+          <p>
+              <paper>Voice conversion</paper>
+              <br>  
+              <b>Prithvish V N</b>,    
+            <br>
+              <details>
+                <summary>Brief  | <a href="https://github.com/Prithvish04/voice_conversion">Repository</a>  </summary>            
+                <p class="message">
+                The project is a replication of vending machines used in Metro localities such as Delhi, Mumbai, Bangalore and other cities abroad. Vending machine is an automated machine that dispenses products in exchange of money that is put into the system. In other words it’s a money operated automated machine for selling merchandise. The task comprises of three stages –finite state machine, followed by sensing hardware and then finally product dispensing mechanism. The project is majorly based on the finite state machine to maneuver the system. The system senses two currency notes (Rs.10 and Rs.20) using SIFT algorithm. The system is efficient in dispensing products more like wafers and chocolates. As per the design the machine will dispense a product only for amount exactly Rs.30. The machine additionally consists of a cancelling mechanism which cancels the order and returns the amount back to the customer.
+                </p>
+              </details>
+          </p>  
+     </td>
+  </tr> 
+
+
+  <tr>
+    <td width="14%"  valign="top">
+        <img src="/images/projects/viterbi.png" alt="viterbi" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+     </td>
+     <td valign="top" width="85%">
+          <p>
+              <paper>Channel encoding and viterbi decoding on an FPGA</paper>
+              <br>  
+              <b>Prithvish V N</b>,    
+            <br>
+              <details>
+                <summary>Brief  |  <a href="https://github.com/Prithvish04/channel_encoding_veterbi_decoding">Repository</a>| <a href="https://github.com/Prithvish04/channel_encoding_veterbi_decoding/blob/main/1138_1100_1113_REPORT.pdf">Report</a>  </summary>            
+                <p class="message">
+                The project is a replication of vending machines used in Metro localities such as Delhi, Mumbai, Bangalore and other cities abroad. Vending machine is an automated machine that dispenses products in exchange of money that is put into the system. In other words it’s a money operated automated machine for selling merchandise. The task comprises of three stages –finite state machine, followed by sensing hardware and then finally product dispensing mechanism. The project is majorly based on the finite state machine to maneuver the system. The system senses two currency notes (Rs.10 and Rs.20) using SIFT algorithm. The system is efficient in dispensing products more like wafers and chocolates. As per the design the machine will dispense a product only for amount exactly Rs.30. The machine additionally consists of a cancelling mechanism which cancels the order and returns the amount back to the customer.
+                </p>
+              </details>
+          </p>  
+     </td>
+  </tr> 
+
+
         <tr>
     <td width="14%"  valign="top">
         <img src="/images/projects/gesture.png" alt="gesture" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
