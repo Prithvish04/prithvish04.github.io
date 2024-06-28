@@ -55,7 +55,7 @@ paper {
               <b>Prithvish V N</b>,    
             <br>
               <details>
-                <summary>Brief  | <a href="https://github.com/Prithvish04/reconfigurable_project">Code & Report</a>  </summary>            
+                <summary>Brief  | <a href="https://github.com/Prithvish04/drone_embedded_systems_lab">Repository </a> | <a href="https://github.com/Prithvish04/drone_embedded_systems_lab/blob/main/ESL_report.pdf"> Report</a>  </summary>            
                 <p class="message">
                 This project aims to build flight control software for the operation of a Quadrupel (QR) drone from scratch. The scope of the project spans from enabling simple joystick-based manual control to implementing automatic motion stabilisation through cascaded P control. The developed software acknowledges constraints on safe states, memory, and power of the QR flight control board (FCB) by implementing several failsafe mechanisms as well as software workarounds for hardware inadequacies. The software was rigorously tested on the physical system and tuned to optimise for inconsistencies between assumptions and hardware performance. The final version of the project was able to achieve the set control goals to a reasonable extent, though further design iterations could have improved the robustness of the system and ironed out the minor flaws that were observed during its operation.
                 </p>
@@ -76,7 +76,7 @@ paper {
               <b>Prithvish V N</b>,    
             <br>
               <details>
-                <summary>Brief  | <a href="https://github.com/Prithvish04/reconfigurable_project">Code & Report</a>  </summary>            
+                <summary>Brief  | <a href="https://github.com/Prithvish04/reconfigurable_project">Repository </a>| <a href="https://github.com/Prithvish04/reconfigurable_project/blob/main/report/Report.pdf"> Report</a>  </summary>            
                 <p class="message">
                 The project covers a successful implementation of Canny edge detection in software as well as in hardware. Software implementation is used as a reference to evaluate the correctness and performance of the design. It can be concluded from the results of the design that the correctness reduces due to limited registers in the FPGA, which does not allow complete partitioning of the buffer in the Hysteresis stage. The performance increases significantly by optimizing the Sobel filter using the CORDIC algorithm, pipelining the operations, using intermediate arrays, and removing false dependencies.
 
@@ -123,7 +123,7 @@ paper {
               <b>Prithvish V N</b>,    
             <br>
               <details>
-                <summary>Brief  | <a href="https://github.com/Prithvish04/Deep-orchards">Code & blog</a>  </summary>            
+                <summary>Brief  | <a href="https://github.com/Prithvish04/deep_orchards">Code & blog</a>  </summary>            
                 <p class="message">
                 Terms like Deep learning and machine learning have been quite popular these days. There have been several advancements in the field over the last couple of years. Having seen several fields slowly adapting techniques to solve problems via deep learning and machine learning encouraged encouraged us to take up deep learning courses in our Masters. While courses give you a basic understanding on a subject, Projects have always been an interesting way of learning new concepts hence we took up a challenging project to integrate the Deep Orchards dataset with the Faster RCNN network and reproduce the research paper. The work takes you through the very basic steps one should follow if you are a newbie in deep learning.
                 </p>
@@ -167,7 +167,7 @@ paper {
               <b>Prithvish V N</b>,    
             <br>
               <details>
-                <summary>Brief  | <a href="https://github.com/Prithvish04/">Code & blog</a>  </summary>            
+                <summary>Brief  | <a href="https://github.com/Prithvish04/starliner_mcrl2/">Code & blog</a>  </summary>            
                 <p class="message">
                 This system validation project will focus solely on the launch segment of the Starliner Mission. The launch starts on the ground and terminates when the Service and Crew Modules (SCM) are detached from the Orbital Module (OM). The main events as listed below will be modelled in mCRL2 using four independent controllers running in parallel. As further described in section 2, these consist of a Flight Controller (FC), Booster Module Controller (BMC), Launch Module Controller (LMC), and Orbital Module Controller (OMC)
                 </p>
@@ -189,7 +189,7 @@ paper {
               <b>Prithvish V N</b>,    
             <br>
               <details>
-                <summary>Brief  | <a href="https://github.com/Prithvish04/">Report</a>  </summary>            
+                <summary>Brief  | <a href="">Report</a>  </summary>            
                 <p class="message">
                 This review paper presents an overview and comparison of three different caching methodologies for Chip Multiprocessor (CMP) systems. We first explore a framework called Cooperative Caching (CC) framework, which provided the groundwork on how to efficiently manage on-chip cache resources. We then present an improvement on the performance of the CC framework for higher number of processes using Distributed Cooperative Caching (DCC) .Finally, we present another methodology, Adaptive Set-Granular Cooperative Caching (ASCC) [3], which also improves upon CC by adopting an efficient cache spilling policy for the onchip caches. We compare the mentioned methodologies using various common evaluation metrics – percentage of performance improvement, number of off-chip misses per transaction and network latency – measured while running workloads from common SPEC benchmarks. We also show which of the methods perform the best in a given scenario using qualitative metrics. We end the review mentioning our reflections on each of the three proposals.
                 </p>
@@ -197,7 +197,6 @@ paper {
           </p>  
      </td>
   </tr> 
-git 
     <tr>
     <td width="14%"  valign="top">
         <img src="/images/projects/rtems.png" alt="rtems" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
@@ -217,6 +216,7 @@ git
           </p>  
      </td>
   </tr> 
+
     <tr>
     <td width="14%"  valign="top">
         <img src="/images/projects/VEX.png" alt="VEX" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
@@ -228,7 +228,7 @@ git
               <b>Prithvish V N</b>,    
             <br>
               <details>
-                <summary>Brief  | <a href="https://github.com/Prithvish04/">Report</a>  </summary>            
+                <summary>Brief  | <a href="https://github.com/Prithvish04/lab_reports/blob/main/modern_computer_architecture/MCA_VEX_sim.pdf">Report</a>  </summary>            
                 <p class="message">
                 This report presents our analysis of the benchmarks - matrix multiplication and 7x7 convolution. We consider both of the application to be of scientific domain and thus our focus is primarily on optimizing the performance as compared to the utilization of resources. We show our process of finding the optimum VEX architecture and then explain the reason behind the optimal configuration.
                 </p>
@@ -249,7 +249,7 @@ git
               <b>Prithvish V N</b>,    
             <br>
               <details>
-                <summary>Brief  | <a href="https://github.com/Prithvish04/">Code & blog</a>  </summary>            
+                <summary>Brief  | <a href="https://github.com/Prithvish04/lab_reports/blob/main/modern_computer_architecture/MCA_VEX_FPGA.pdf">Report</a>  </summary>            
                 <p class="message">
                 This report presents our analysis of the matrix multiplication, 7x7 convolution, jpeg and greyscale benchmarks on an actual physical FPGA using the VLIW configuration. We present our configurations for three different domains, namely low-power embedded systems, high-performance scientific systems and an efficient compromise between performance, energy and area. We also present the results of our design space exploration and discuss the various hardware and software configurations used.
                 </p>
@@ -270,7 +270,7 @@ git
               <b>Prithvish V N</b>,    
             <br>
               <details>
-                <summary>Brief  | <a href="https://github.com/Prithvish04/">Code & blog</a>  </summary>            
+                <summary>Brief  | <a href="https://github.com/Prithvish04/lab_reports/blob/main/optimization_system_%26_control/Optimization_Non_Linear.pdf">Code & blog</a>  </summary>            
                 <p class="message">
                 The project focuses on optimizing an urban traffic network using nonlinear programming. It presents a discrete-time state-space model for the network, formulates and solves the optimization problem, and analyzes the results, particularly in terms of queue lengths and the number of vehicles under different scenarios. Key findings include the identification of output link capacity as a limiting factor and the observation that the total time spent in the system (TTS) remains consistent across different initial guesses for green time lengths and the no-control case. The analysis demonstrates that the optimization algorithm effectively minimizes TTS by determining optimal green time lengths for traffic signals.
                 </p>
@@ -292,7 +292,7 @@ git
               <b>Prithvish V N</b>,    
             <br>
               <details>
-                <summary>Brief  | <a href="https://github.com/Prithvish04/">Code & blog</a>  </summary>            
+                <summary>Brief  | <a href="https://github.com/Prithvish04/lab_reports/blob/main/optimization_system_%26_control/Optimization_linear_quadratic.pdf">Report</a>  </summary>            
                 <p class="message">
                 The project focuses on optimizing various optimization problems within systems and control. The project covers the formulation of constraints and solutions, including integer solutions for air conditioning units to maximize power under budget and space constraints. The project also delves into discrete models, parameter identification, and converting problems into forms suitable for quadratic programming using MATLAB. The overarching goal is to minimize the quadratic cost function while adhering to thermal comfort bounds and energy input limits. The project emphasizes the application of these optimization techniques in practical engineering scenarios.
                 </p>
@@ -314,7 +314,7 @@ git
               <b>Prithvish V N</b>,    
             <br>
               <details>
-                <summary>Brief  | <a href="https://github.com/Prithvish04/">Code & blog</a>  </summary>            
+                <summary>Brief  | <a href="https://github.com/Prithvish04/lab_reports/tree/main/advanced_computing_system">Report</a>  </summary>            
                 <p class="message">
                 This project is focused on the analysis of various computational techniques by implementing matrix multiplication. Our goal is to accelerate and optimize both single-precision and double precision matrix multiplication by the use of Intel SSE/AVX/AVX2, OpenMP and OpenCL on multi-core processor systems. We state our observations of the performance of each implementation and analyze why and when which imple-mentation works better. We benchmarked the implementations with that of a native matrix multiplication wherein no optimizations have been applied. We then conclude with a brief discussion of the current trend on how each of these paradigms are being used currently. 
                 </p>
@@ -334,7 +334,7 @@ git
               <b>Prithvish V N</b>,    
             <br>
               <details>
-                <summary>Brief  | <a href="https://github.com/Prithvish04/">Code & blog</a>  </summary>            
+                <summary>Brief  | <a href="https://github.com/Prithvish04/lab_reports/blob/main/advanced_computing_system/ACS_CUDA.pdf">Report</a>  </summary>            
                 <p class="message">
                 This report is focused on the implementation and analysis of the optimization of a basic image processing algorithm using NVIDIA CUDA toolkit. CUDA is a parallel computing platform and programming model developed by NVIDIA for general computing on graphical processing units (GPUs). With CUDA, it is possible to dramatically speed up computing applications by harnessing the power of GPUs. In our case, the image processing algorithm consists of 4 stages namely histogram calculation, contrast enhancement, ripple effect and Gaussian blurring. We provide the optimized algorithm and compare the performance of the with that of the serial execution.
                 </p>
@@ -354,7 +354,7 @@ git
               <b>Prithvish V N</b>,    
             <br>
               <details>
-                <summary>Brief  | <a href="https://github.com/Prithvish04/">Code & blog</a>  </summary>            
+                <summary>Brief  | <a href="https://github.com/Prithvish04/lab_reports/blob/main/advanced_computing_system/ACS_CNN.pdf">Report</a>  </summary>            
                 <p class="message">
                 This report is focused on the implementation and analysis of the optimization of a basic CNN classification algorithm. CUDA is a parallel computing platform and programming model developed by NVIDIA for general computing on graphical processing units (GPUs). With CUDA, it is possible to dramatically speed up computing applications by harnessing the power of GPUs. We provide the optimized algorithm and com-pare the performance of the same with that of the base- line serial implementation. We also try to use various other paradigms whenever possible to get the maxi-mum performance out of the algorithm. 
                 </p>
@@ -362,32 +362,6 @@ git
           </p>  
      </td>
   </tr> 
-
-  <tr>
-    <td width="14%"  valign="top">
-        <img src="/images/projects/acs_3.png" alt="rtems" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
-     </td>
-     <td valign="top" width="85%">
-          <p>
-              <paper>Acceleration of a Convolution Neural Network</paper>
-              <br>  
-              <b>Prithvish V N</b>,    
-            <br>
-              <details>
-                <summary>Brief  | <a href="https://github.com/Prithvish04/">Code & blog</a>  </summary>            
-                <p class="message">
-                This report is focused on the implementation and analysis of the optimization of a basic CNN classification algorithm. CUDA is a parallel computing platform and programming model developed by NVIDIA for general computing on graphical processing units (GPUs). With CUDA, it is possible to dramatically speed up computing applications by harnessing the power of GPUs. We provide the optimized algorithm and com-pare the performance of the same with that of the base- line serial implementation. We also try to use various other paradigms whenever possible to get the maxi-mum performance out of the algorithm. 
-                </p>
-              </details>
-          </p>  
-     </td>
-  </tr> 
-
-
-
-
-
-
 
  <tr>
     <td width="14%"  valign="top">
