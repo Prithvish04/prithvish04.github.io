@@ -492,9 +492,9 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
      </td>
   </tr> 
 
-   <tr>
-       <td width="14%"  valign="top">
-            <img src="/images/projects/person_id.png" alt="mindswitch" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+  <tr>
+    <td width="14%"  valign="top">
+      <img src="/images/projects/person_id.png" alt="mindswitch" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
           <p>
@@ -512,7 +512,7 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
      </td>
   </tr> 
 
-       <tr>
+  <tr>
     <td width="14%"  valign="top">
         <img src="/images/projects/study_i2c_msp430.png" alt="kitchen" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
@@ -533,7 +533,7 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
   </tr> 
 
 
-       <tr>
+  <tr>
     <td width="14%"  valign="top">
         <img src="/images/projects/8051.png" alt="8051" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
@@ -555,7 +555,7 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
   </tr> 
 
 
-       <tr>
+  <tr>
     <td width="14%"  valign="top">
         <img src="/images/projects/vending.png" alt="vending" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
@@ -589,7 +589,7 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
               <details>
                 <summary>Brief  | <a href="https://github.com/Prithvish04/voice_conversion">Repository</a> | <a href="https://www.youtube.com/watch?v=RVJXtyTOZ0Y&ab_channel=PrithvishProjects">Video</a>   </summary>            
                 <p class="message">
-                The project is a replication of vending machines used in Metro localities such as Delhi, Mumbai, Bangalore and other cities abroad. Vending machine is an automated machine that dispenses products in exchange of money that is put into the system. In other words it’s a money operated automated machine for selling merchandise. The task comprises of three stages –finite state machine, followed by sensing hardware and then finally product dispensing mechanism. The project is majorly based on the finite state machine to maneuver the system. The system senses two currency notes (Rs.10 and Rs.20) using SIFT algorithm. The system is efficient in dispensing products more like wafers and chocolates. As per the design the machine will dispense a product only for amount exactly Rs.30. The machine additionally consists of a cancelling mechanism which cancels the order and returns the amount back to the customer.
+                Speech processing is currently a key focus for many researchers in the area of DSP. In this project, we focus on the topic of voice conversion, which involves producing the words from one person (the “source speaker”) in the voice of another person (the “target speaker”). We can do this using DSP because every person’s distinct vocal qualities are essentially caused by their vocal tract, which forms a transfer function between the input excitation and the output signal that we hear. We can isolate this transfer function through methods such as cepstral analysis and linear prediction coding, which we describe in detail. The second major identifier between different speakers is the pitch range of their words. We can change the pitch through methods such as the PSOLA, which we also describe. The vocal tract transfer function and pitch range are different for different sounds. Thus, in synthesizing a phrase, we must first break the signal into smaller segments and analyse each individually. Our windowing algorithm divides the signal based on breaks between different syllables and words. We then use functions from the Praat program to perform the analysis and synthesis. Voice conversion has numerous applications, such as the areas of foreign language training and movie dubbing. It is closely related to the process of speech synthesis, which usually refers to converting text into spoken language, and has many applications, especially relating to assistance for the blind and deaf. Other areas in speech processing, such as speaker verification, have applications in security. All of these different types of speech signal processing involve related methods that we investigated through this project, especially cepstral analysis, linear prediction coding, and the PSOLA method.
                 </p>
               </details>
           </p>  
@@ -610,7 +610,7 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
               <details>
                 <summary>Brief  |  <a href="https://github.com/Prithvish04/channel_encoding_veterbi_decoding">Repository</a>| <a href="https://github.com/Prithvish04/channel_encoding_veterbi_decoding/blob/main/1138_1100_1113_REPORT.pdf">Report</a>  </summary>            
                 <p class="message">
-This project implements convolutional encoding and decoding using Viterbi algorithm on FPGA (Field Programmable Gate Array). These are popular techniques for channel encoding and decoding. The purpose of channel encoding is to find codes which transmit quickly, contain many valid code words and can correct or at least detect many errors. Channel encoding adds extra data bits (redundancy) to make the transmissio nof data more robust to disturbances present on the transmission channel. Channel decoder attempts to reconstruct the original information sequence from the knowledge of the channel encoding algorithm. Convolutional coding is a type of error correcting codes that generates parity symbols via the sliding application of a Boolean polynomial function to a data stream. Viterbi algorithm aims at finding the mostlikely transmitted message sequence minimizing the BER. Though it is resource consuming but it does themaximum likelihood decoding. It can be a hard decision decoding (using Hamming distance) or a softdecision decoding (using Euclidean distance). These are the techniques commonly used in popular wirelessstandards and satellite communication. This technique is used in various space missions such as marspathfinder, mars exploration rover, cassini probe to Saturn.In the project, a convolutional code with code rate ½ and constraint length 3 is implemented on FPGA(SPARTAN 3E) and the same is decoded using hard decision Viterbi decoder                
+                This project implements convolutional encoding and decoding using Viterbi algorithm on FPGA (Field Programmable Gate Array). These are popular techniques for channel encoding and decoding. The purpose of channel encoding is to find codes which transmit quickly, contain many valid code words and can correct or at least detect many errors. Channel encoding adds extra data bits (redundancy) to make the transmissio nof data more robust to disturbances present on the transmission channel. Channel decoder attempts to reconstruct the original information sequence from the knowledge of the channel encoding algorithm. Convolutional coding is a type of error correcting codes that generates parity symbols via the sliding application of a Boolean polynomial function to a data stream. Viterbi algorithm aims at finding the mostlikely transmitted message sequence minimizing the BER. Though it is resource consuming but it does themaximum likelihood decoding. It can be a hard decision decoding (using Hamming distance) or a softdecision decoding (using Euclidean distance). These are the techniques commonly used in popular wirelessstandards and satellite communication. This technique is used in various space missions such as marspathfinder, mars exploration rover, cassini probe to Saturn.In the project, a convolutional code with code rate ½ and constraint length 3 is implemented on FPGA(SPARTAN 3E) and the same is decoded using hard decision Viterbi decoder                
                 </p>
               </details>
           </p>  
@@ -661,7 +661,7 @@ This project implements convolutional encoding and decoding using Viterbi algori
      </td>
   </tr> 
 
-       <tr>
+  <tr>
     <td width="14%"  valign="top">
         <img src="/images/projects/band_pass_filter_hfss.png" alt="kitchen" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
