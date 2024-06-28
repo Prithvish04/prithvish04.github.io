@@ -49,12 +49,15 @@ I did my master thesis with [Interuniversity Microelectronic Center](https://www
 <br>
 
 
-## Research Interests
+### Research Work
 Click [here](/publication) for all the publications.
 
 
-## Other Projects 
+### Projects 
 Click [here](/projects) for all the projects.
+
+### YouTube Channel 
+Click [here](https://www.youtube.com/@prithvishprojects13) [here](https://www.youtube.com/channel/UC1NTO-jyo2aahEvoRctaEMg)  for the YouTube Channel
 
 
 ### Neurmorphic computing and SENeCA
