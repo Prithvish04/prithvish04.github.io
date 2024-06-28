@@ -545,7 +545,7 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
               <b>Prithvish V N</b>,    
             <br>
               <details>
-                <summary>Brief  | <a href="https://github.com/Prithvish04/voice_conversion">Repository</a>  </summary>            
+                <summary>Brief  | <a href="https://github.com/Prithvish04/voice_conversion">Repository</a> | <a href="https://www.youtube.com/watch?v=RVJXtyTOZ0Y&ab_channel=PrithvishProjects">Video</a>   </summary>            
                 <p class="message">
                 The project is a replication of vending machines used in Metro localities such as Delhi, Mumbai, Bangalore and other cities abroad. Vending machine is an automated machine that dispenses products in exchange of money that is put into the system. In other words it’s a money operated automated machine for selling merchandise. The task comprises of three stages –finite state machine, followed by sensing hardware and then finally product dispensing mechanism. The project is majorly based on the finite state machine to maneuver the system. The system senses two currency notes (Rs.10 and Rs.20) using SIFT algorithm. The system is efficient in dispensing products more like wafers and chocolates. As per the design the machine will dispense a product only for amount exactly Rs.30. The machine additionally consists of a cancelling mechanism which cancels the order and returns the amount back to the customer.
                 </p>
