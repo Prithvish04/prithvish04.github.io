@@ -93,6 +93,29 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
   </tr> 
 
 
+
+  </tr> 
+    <tr>
+    <td width="25%"  valign="top">
+        <img src="/images/projects/BNN.png" alt="BNN" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+     </td>
+     <td valign="top" width="85%">
+          <p>
+              <paper>High-Performance Binary Neural Networks for MNIST Classification: From Software to ASIC </paper>
+              <br>  
+              <b>Prithvish V N</b>,    
+            <br>
+              <details>
+                <summary>Brief  | <a href="https://github.com/Prithvish04/optimized_bnn_asic/tree/main">Repository</a>  </summary>            
+                <p class="message">
+                In this study, we explore the design and implementation of a Binary Neural Network (BNN) for image classification tasks, specifically focusing on the MNIST dataset. The motivation behind using BNNs is their potential for significantly reduced computational resources, making them ideal for edge computing and embedded systems. BNNs store weights as binary values (+1 or -1), allowing for faster computations using simple bitwise operations and reduced memory requirements. The robustness of BNNs against adversarial attacks is also highlighted, given their binary nature. We implemented a convolutional neural network in TensorFlow and utilized the Larq library for quantizing the layers. The network architecture comprises a convolutional layer, a max-pooling layer, and a fully connected layer. For the hardware implementation, we translated the trained model into VHDL. The hardware architecture includes modules for convolution, max-pooling, and fully connected layers, each synchronized by an internal clock counter. The ASIC implementation was simulated using GENUS, achieving a substantial speedup compared to software inference on a GPU. The implementation's minimum clock period was 2.79 ns, corresponding to a maximum operating frequency of 358 MHz. The latency and energy consumption of the design were also analyzed, with further optimizations suggested to improve performance.Overall, the BNN hardware implementation demonstrates significant performance improvements, justifying further exploration of architectural enhancements.
+                </p>
+              </details>
+          </p>  
+     </td>
+  </tr> 
+
+
    <tr>
     <td width="25%"  valign="top">
         <img src="/images/projects/cannyedge.png" alt="cannyedge" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
@@ -283,8 +306,7 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
               <details>
                 <summary>Brief  | <a href="https://github.com/Prithvish04/system_design_algorithms">Repository</a>  </summary>            
                 <p class="message">
-
-
+                This project presents a comprehensive evaluation of scheduling algorithms in the context of system design, with a particular focus on MATLAB-based simulations. We investigate the performance and trade-offs associated with various scheduling techniques, including As Late As Possible (ALAP), Force Directed Scheduling, and LIST Scheduling. Our analysis emphasizes key metrics such as clock period minimization and resource utilization efficiency.We delve into the extraction of Pareto points to illustrate the inherent trade-offs between critical design parameters. Additionally, we explore the re-timing of circuits, demonstrating its impact on clock period reduction and the corresponding increase in register count. Our findings highlight the necessity of balancing these factors to optimize overall system performance.Precision analysis is conducted to evaluate the influence of coefficient bit precision on circuit behavior. By adjusting the fractional bit count, we enhance precision and observe its effects on design outcomes. The study employs a configuration of 17 total bits with 15 fractional bits for detailed analysis. To validate our theoretical insights, we generate VHDL testbenches and conduct simulations using ModelSim. These simulations confirm the accuracy of our MATLAB testbench outputs and identify timing violations, guiding subsequent design refinements. Our results underscore the efficacy of re-timing in optimizing circuit performance, contingent upon meticulous management of critical paths and resource allocation. This paper provides valuable insights into the comparative performance of scheduling algorithms and the practical implications of design decisions in system design.
                 </p>
               </details>
           </p>  
@@ -305,7 +327,7 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
               <details>
                 <summary>Brief  | <a href="">Report</a>  </summary>            
                 <p class="message">
-                This review paper presents an overview and comparison of three different caching methodologies for Chip Multiprocessor (CMP) systems. We first explore a framework called Cooperative Caching (CC) framework, which provided the groundwork on how to efficiently manage on-chip cache resources. We then present an improvement on the performance of the CC framework for higher number of processes using Distributed Cooperative Caching (DCC) .Finally, we present another methodology, Adaptive Set-Granular Cooperative Caching (ASCC) [3], which also improves upon CC by adopting an efficient cache spilling policy for the onchip caches. We compare the mentioned methodologies using various common evaluation metrics – percentage of performance improvement, number of off-chip misses per transaction and network latency – measured while running workloads from common SPEC benchmarks. We also show which of the methods perform the best in a given scenario using qualitative metrics. We end the review mentioning our reflections on each of the three proposals.
+                This survey project presents an overview and comparison of three different caching methodologies for Chip Multiprocessor (CMP) systems. We first explore a framework called Cooperative Caching (CC) framework, which provided the groundwork on how to efficiently manage on-chip cache resources. We then present an improvement on the performance of the CC framework for higher number of processes using Distributed Cooperative Caching (DCC) .Finally, we present another methodology, Adaptive Set-Granular Cooperative Caching (ASCC) [3], which also improves upon CC by adopting an efficient cache spilling policy for the onchip caches. We compare the mentioned methodologies using various common evaluation metrics – percentage of performance improvement, number of off-chip misses per transaction and network latency – measured while running workloads from common SPEC benchmarks. We also show which of the methods perform the best in a given scenario using qualitative metrics. We end the review mentioning our reflections on each of the three proposals.
                 </p>
               </details>
           </p>  
@@ -326,7 +348,7 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
               <details>
                 <summary>Brief  | <a href="https://github.com/Prithvish04/lab_reports/blob/main/modern_computer_architecture/MCA_VEX_sim.pdf">Report</a>  </summary>            
                 <p class="message">
-                This report presents our analysis of the benchmarks - matrix multiplication and 7x7 convolution. We consider both of the application to be of scientific domain and thus our focus is primarily on optimizing the performance as compared to the utilization of resources. We show our process of finding the optimum VEX architecture and then explain the reason behind the optimal configuration.
+                This project presents our analysis of the benchmarks - matrix multiplication and 7x7 convolution. We consider both of the application to be of scientific domain and thus our focus is primarily on optimizing the performance as compared to the utilization of resources. We show our process of finding the optimum VEX architecture and then explain the reason behind the optimal configuration.
                 </p>
               </details>
           </p>  
@@ -554,30 +576,7 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
               <b>Prithvish V N</b>,    
             <br>
               <details>
-Effective network planning is essential to cope with the increasing number of mobile
-broadband data subscribers and bandwidth-intensive services competing for limited radio
-resources. Operators have met this challenge by increasing capacity with new radio spectrum,
-adding multi-antenna techniques and implementing more efficient modulation and coding
-schemes. However, these measures alone are insufficient in the most crowded environments
-and at cell edges where performance can significantly degrade. Operators are also adding
-small cells and tightly-integrating these with their macro networks to spread traffic loads,
-widely maintain performance and service quality while reusing spectrum most efficiently.
-One way to expand an existing macro-network, while maintaining it as a homogeneous
-network, is to “densify” it by adding more sectors per eNB or deploying more macro-eNBs.
-However, reducing the site-to-site distance in the macro-network can only be pursued to a
-certain extent because finding new macro-sites becomes increasingly difficult and can be
-expensive, especially in city centres. An alternative is to introduce small cells through the
-addition of low-power base stations (eNBs, HeNBs or Relay Nodes (RNs)) or Remote Radio
-Heads (RRH) to existing macro-eNBs. Site acquisition is easier and cheaper with this
-equipment which is also correspondingly smaller. Small cells are primarily added to increase
-capacity in hot spots with high user demand and to fill in areas not covered by the macro
-network – both outdoors and indoors. They also improve network performance and service
-quality by offloading from the large macro-cells. Further the authors propose and solve the
-issues of HETNETS in LTE Networks where Small cells are placed closed to each other and
-randomly scattered. In this paper proposal, has been made of a unique effective solution to
-solve such problems. we shall be using geometrical partitioning and combining techniques to
-increase density over the network and solve the issue of randomly placed cells and further
-apply game theoretic approaches to get efficient outputs over user mobile handoff
+              Effective network planning is essential to cope with the increasing number of mobile broadband data subscribers and bandwidth-intensive services competing for limited radio resources. Operators have met this challenge by increasing capacity with new radio spectrum,adding multi-antenna techniques and implementing more efficient modulation and codingschemes. However, these measures alone are insufficient in the most crowded environmentsand at cell edges where performance can significantly degrade. Operators are also addingsmall cells and tightly-integrating these with their macro networks to spread traffic loads,widely maintain performance and service quality while reusing spectrum most efficiently.One way to expand an existing macro-network, while maintaining it as a homogeneousnetwork, is to “densify” it by adding more sectors per eNB or deploying more macro-eNBs.However, reducing the site-to-site distance in the macro-network can only be pursued to acertain extent because finding new macro-sites becomes increasingly difficult and can beexpensive, especially in city centres. An alternative is to introduce small cells through theaddition of low-power base stations (eNBs, HeNBs or Relay Nodes (RNs)) or Remote RadioHeads (RRH) to existing macro-eNBs. Site acquisition is easier and cheaper with thisequipment which is also correspondingly smaller. Small cells are primarily added to increasecapacity in hot spots with high user demand and to fill in areas not covered by the macronetwork – both outdoors and indoors. They also improve network performance and servicequality by offloading from the large macro-cells. Further the authors propose and solve theissues of HETNETS in LTE Networks where Small cells are placed closed to each other andrandomly scattered. In this paper proposal, has been made of a unique effective solution tosolve such problems. we shall be using geometrical partitioning and combining techniques toincrease density over the network and solve the issue of randomly placed cells and furtherapply game theoretic approaches to get efficient outputs over user mobile handoff
                 </p>
               </details>
           </p>  
