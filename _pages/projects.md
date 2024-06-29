@@ -44,6 +44,34 @@ paper {
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
 
 
+
+
+ <tr>
+    <td width="25%"  valign="top">
+        <img src="/images/projects/ethereal.png" alt="ethereal" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+     </td>
+     <td valign="top" width="85%">
+          <p>
+              <paper>Optimizing the Ethereal Engine Version 1 EtherealMatter</paper>
+              <br>  
+              <b>Prithvish V N</b>,    
+            <br>
+              <details>
+                <summary>Brief  | <a href="">Report</a> | <a href="">Poster</a> </summary>            
+                  <p class="message">
+Worldwide obesity has nearly tripled since 1975 and is still growing . More than a quarter of the world’s adult population is physically inactive, which has resulted in poor health systems and negative impacts on well-being . Physical activity has been shown to have significant health benefits for hearts, bodies, and minds, as it prevents noncommunicable diseases, reduces symptoms of depression and anxiety, and improves overall well-being . Still, more than 80% of the world’s adolescent population and 20% of the adult population are not sufficiently physically active . In particular, technological advancements in the gaming industry have led to a larger number of people, including children, spending time on video games rather than engaging in physical exercises. The rising adoption of a sedentary lifestyle increases the risk of non-communicable diseases such as type 2 diabetes and obesity. 
+
+Interactive fitness products try to fight this increasing problem by introducing technology to the fitness industry market, making workouts safer, more fun, and flexible. This so-called exergaming is considered the most promising product as physical exercises are combined with video games to help people build up their strength and improve their fitness levels. One of the companies involved in this exergaming industry is Ethereal Matter, whose vision is to create "a full-body, intelligent fitness platform enabling immersive virtual-physical interaction, adaptable to the range of humanity who desire the benefits of improved health." To achieve this vision, a prototype called the "Ethereal Engine" was created. In this engine, games can be played by the end-user while working out and even being social with friends and family all over the world through virtual reality (VR). The machine consists of two robot armatures that the user can steer to move in the VR and that can also provide resistance to activate the muscles. However, the prototype still faces many challenges, and since Ethereal Matter is a start-up company with limited engineering resources, this is where we, as an interdisciplinary team of engineers, can contribute.
+
+Due to the 10-week time constraint, the team decided to focus on improving the armatures of the existing prototype. The goal of this project is to tackle the challenges related to the armatures and deliver a concept, and when possible a prototype, of an improved product. Through various conversations with the client, it is understood that providing a completely new conceptual iteration would not fulfill the client's expectations. Thus, to provide valuable progress, different areas of improvement are considered and addressed: Human Range of Motion, Virtual Immersion and MoCap, Dead-man grip, Sensor Box, Power management, Industrial design and Manufacturing, Prototyping, and Innovation management.
+
+In this project, interdisciplinary knowledge will be utilized and integrated to achieve a product concept. Furthermore, theoretical knowledge will be combined with practical hands-on experience and literature analysis on social, scientific, and ethical issues. Lastlgiy, future scope and a road map are addressed to guarantee the project's continuity. The report gathers all the aforementioned aspects, guiding the reader through the project process.
+                  </p>
+              </details>
+          </p>  
+     </td>
+  </tr> 
+
    <tr>
     <td width="25%"  valign="top">
         <img src="/images/projects/drone.png" alt="drone" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
@@ -178,26 +206,7 @@ paper {
 
 
 
-  <tr>
-    <td width="25%"  valign="top">
-        <img src="/images/projects/caching.png" alt="caching" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
-     </td>
-     <td valign="top" width="85%">
-          <p>
-              <paper>Comparing caching methologies for multiprocessor system- A survey </paper>
-              <br>  
-              <b>Prithvish V N</b>,    
-            <br>
-              <details>
-                <summary>Brief  | <a href="">Report</a>  </summary>            
-                <p class="message">
-                This review paper presents an overview and comparison of three different caching methodologies for Chip Multiprocessor (CMP) systems. We first explore a framework called Cooperative Caching (CC) framework, which provided the groundwork on how to efficiently manage on-chip cache resources. We then present an improvement on the performance of the CC framework for higher number of processes using Distributed Cooperative Caching (DCC) .Finally, we present another methodology, Adaptive Set-Granular Cooperative Caching (ASCC) [3], which also improves upon CC by adopting an efficient cache spilling policy for the onchip caches. We compare the mentioned methodologies using various common evaluation metrics – percentage of performance improvement, number of off-chip misses per transaction and network latency – measured while running workloads from common SPEC benchmarks. We also show which of the methods perform the best in a given scenario using qualitative metrics. We end the review mentioning our reflections on each of the three proposals.
-                </p>
-              </details>
-          </p>  
-     </td>
-  </tr> 
-    <tr>
+ 
     <td width="25%"  valign="top">
         <img src="/images/projects/rtems.png" alt="rtems" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
@@ -258,6 +267,27 @@ paper {
           </p>  
      </td>
   </tr> 
+
+   <tr>
+    <td width="25%"  valign="top">
+        <img src="/images/projects/caching.png" alt="caching" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+     </td>
+     <td valign="top" width="85%">
+          <p>
+              <paper>Comparing caching methologies for multiprocessor system- A survey </paper>
+              <br>  
+              <b>Prithvish V N</b>,    
+            <br>
+              <details>
+                <summary>Brief  | <a href="">Report</a>  </summary>            
+                <p class="message">
+                This review paper presents an overview and comparison of three different caching methodologies for Chip Multiprocessor (CMP) systems. We first explore a framework called Cooperative Caching (CC) framework, which provided the groundwork on how to efficiently manage on-chip cache resources. We then present an improvement on the performance of the CC framework for higher number of processes using Distributed Cooperative Caching (DCC) .Finally, we present another methodology, Adaptive Set-Granular Cooperative Caching (ASCC) [3], which also improves upon CC by adopting an efficient cache spilling policy for the onchip caches. We compare the mentioned methodologies using various common evaluation metrics – percentage of performance improvement, number of off-chip misses per transaction and network latency – measured while running workloads from common SPEC benchmarks. We also show which of the methods perform the best in a given scenario using qualitative metrics. We end the review mentioning our reflections on each of the three proposals.
+                </p>
+              </details>
+          </p>  
+     </td>
+  </tr> 
+    <tr>
 
     <tr>
     <td width="25%"  valign="top">
@@ -405,31 +435,6 @@ paper {
      </td>
   </tr> 
 
- <tr>
-    <td width="25%"  valign="top">
-        <img src="/images/projects/ethereal.png" alt="ethereal" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
-     </td>
-     <td valign="top" width="85%">
-          <p>
-              <paper>Optimizing the Ethereal Engine Version 1 EtherealMatter</paper>
-              <br>  
-              <b>Prithvish V N</b>,    
-            <br>
-              <details>
-                <summary>Brief  | <a href="">Report</a> | <a href="">Poster</a> </summary>            
-                  <p class="message">
-Worldwide obesity has nearly tripled since 1975 and is still growing . More than a quarter of the world’s adult population is physically inactive, which has resulted in poor health systems and negative impacts on well-being . Physical activity has been shown to have significant health benefits for hearts, bodies, and minds, as it prevents noncommunicable diseases, reduces symptoms of depression and anxiety, and improves overall well-being . Still, more than 80% of the world’s adolescent population and 20% of the adult population are not sufficiently physically active . In particular, technological advancements in the gaming industry have led to a larger number of people, including children, spending time on video games rather than engaging in physical exercises. The rising adoption of a sedentary lifestyle increases the risk of non-communicable diseases such as type 2 diabetes and obesity. 
-
-Interactive fitness products try to fight this increasing problem by introducing technology to the fitness industry market, making workouts safer, more fun, and flexible. This so-called exergaming is considered the most promising product as physical exercises are combined with video games to help people build up their strength and improve their fitness levels. One of the companies involved in this exergaming industry is Ethereal Matter, whose vision is to create "a full-body, intelligent fitness platform enabling immersive virtual-physical interaction, adaptable to the range of humanity who desire the benefits of improved health." To achieve this vision, a prototype called the "Ethereal Engine" was created. In this engine, games can be played by the end-user while working out and even being social with friends and family all over the world through virtual reality (VR). The machine consists of two robot armatures that the user can steer to move in the VR and that can also provide resistance to activate the muscles. However, the prototype still faces many challenges, and since Ethereal Matter is a start-up company with limited engineering resources, this is where we, as an interdisciplinary team of engineers, can contribute.
-
-Due to the 10-week time constraint, the team decided to focus on improving the armatures of the existing prototype. The goal of this project is to tackle the challenges related to the armatures and deliver a concept, and when possible a prototype, of an improved product. Through various conversations with the client, it is understood that providing a completely new conceptual iteration would not fulfill the client's expectations. Thus, to provide valuable progress, different areas of improvement are considered and addressed: Human Range of Motion, Virtual Immersion and MoCap, Dead-man grip, Sensor Box, Power management, Industrial design and Manufacturing, Prototyping, and Innovation management.
-
-In this project, interdisciplinary knowledge will be utilized and integrated to achieve a product concept. Furthermore, theoretical knowledge will be combined with practical hands-on experience and literature analysis on social, scientific, and ethical issues. Lastly, future scope and a road map are addressed to guarantee the project's continuity. The report gathers all the aforementioned aspects, guiding the reader through the project process.
-                  </p>
-              </details>
-          </p>  
-     </td>
-  </tr> 
 
 
  <tr>
