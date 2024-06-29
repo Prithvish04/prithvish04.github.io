@@ -220,7 +220,7 @@ paper {
       </tr> 
     <tr>
     <td width="25%"  valign="top">
-        <img src="/images/projects/rtems.png" alt="rtems" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+        <img src="/images/projects/RM.png" alt="RM" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
           <p>
@@ -241,7 +241,7 @@ paper {
 </tr> 
     <tr>
     <td width="25%"  valign="top">
-        <img src="/images/projects/rtems.png" alt="rtems" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+        <img src="/images/projects/FIFO.png" alt="FIFO" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="top" width="85%">
           <p>
@@ -506,6 +506,49 @@ In this project, interdisciplinary knowledge will be utilized and integrated to 
                 <summary>Brief  | <a href="https://github.com/Prithvish04/multimodel_person_identification/">Repository</a> | <a href="">Report</a> Poster</summary>            
                   <p class="message">
                 In this project, we present an audio-visual feature-level fusion for person identification system using a combination of acoustic features, fingerprint images and 2D face images. Person identification is of paramount importance in security, surveillance, human computer interfaces, and smart spaces. There are numerous instances where a single feature, however, sometimes fails to be exact enough for identification. Also, another disadvantage of using only one feature is that the chosen feature is not always readable. Thus, a multimodal approach using three different modalities - face, voice and fingerprint - takes care of all such instances and achieves greater accuracy than single feature systems. The speaker verification is done by extracting Mel Frequency Cepstral Coefficients followed by Support Vector Machine. The facial recognition is done using Local Binary Pattern histogram face recognizer after performing Harr cascade for face detection. The fingerprint verification is done using binarization on a grayscale image, followed by skeletonization and then the minutiae points are found using Harris corner detector. All the three above approaches are implemented on hardware using BeagleBone Black along with audio microphone and USB cameras as sensory modules. The various sensory modalities, speech, fingerprint and faces, are processed both individually and jointly and it has been observed that the performance of the multimodal approach results in improved performance in the identification of the participants. Our system achieves around 90% recognition and verification rates on natural real-time input with 10 registered clients.
+                </p>
+              </details>
+          </p>  
+     </td>
+  </tr> 
+
+
+
+  <tr>
+    <td width="25%"  valign="top">
+      <img src="/images/projects/micro_cell.png" alt="micro_cell" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%"/> 
+     </td>
+     <td valign="top" width="85%">
+          <p>
+              <paper>Simulating handoffs in hetrogenous mobile networks and improving the placement of micro cells through geometrical approaches</paper>
+              <br>  
+              <b>Prithvish V N</b>,    
+            <br>
+              <details>
+Effective network planning is essential to cope with the increasing number of mobile
+broadband data subscribers and bandwidth-intensive services competing for limited radio
+resources. Operators have met this challenge by increasing capacity with new radio spectrum,
+adding multi-antenna techniques and implementing more efficient modulation and coding
+schemes. However, these measures alone are insufficient in the most crowded environments
+and at cell edges where performance can significantly degrade. Operators are also adding
+small cells and tightly-integrating these with their macro networks to spread traffic loads,
+widely maintain performance and service quality while reusing spectrum most efficiently.
+One way to expand an existing macro-network, while maintaining it as a homogeneous
+network, is to “densify” it by adding more sectors per eNB or deploying more macro-eNBs.
+However, reducing the site-to-site distance in the macro-network can only be pursued to a
+certain extent because finding new macro-sites becomes increasingly difficult and can be
+expensive, especially in city centres. An alternative is to introduce small cells through the
+addition of low-power base stations (eNBs, HeNBs or Relay Nodes (RNs)) or Remote Radio
+Heads (RRH) to existing macro-eNBs. Site acquisition is easier and cheaper with this
+equipment which is also correspondingly smaller. Small cells are primarily added to increase
+capacity in hot spots with high user demand and to fill in areas not covered by the macro
+network – both outdoors and indoors. They also improve network performance and service
+quality by offloading from the large macro-cells. Further the authors propose and solve the
+issues of HETNETS in LTE Networks where Small cells are placed closed to each other and
+randomly scattered. In this paper proposal, has been made of a unique effective solution to
+solve such problems. we shall be using geometrical partitioning and combining techniques to
+increase density over the network and solve the issue of randomly placed cells and further
+apply game theoretic approaches to get efficient outputs over user mobile handoff
                 </p>
               </details>
           </p>  
