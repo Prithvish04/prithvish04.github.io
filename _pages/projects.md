@@ -611,7 +611,7 @@ apply game theoretic approaches to get efficient outputs over user mobile handof
      </td>
      <td valign="top" width="85%">
           <p>
-              <paper></paper>
+              <paper>Detailed Study of the 8051 microcontroller</paper>
               <br>  
               <b>Prithvish V N</b>,    
             <br>
