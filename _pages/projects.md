@@ -589,8 +589,7 @@ apply game theoretic approaches to get efficient outputs over user mobile handof
               <details>
                 <summary>Brief  | <a href="https://github.com/Prithvish04/micro_8051_msp430_bbb">Repository</a>  </summary>            
                 <p class="message">
-
-
+                The project details several aspects of the 8051 microcontroller. It covers the principles of asynchronous start-stop signaling and various communication modes such as UART and USART. It details the usage and configuration of the SCON register for serial communication, including important bits like SM2, REN, TB8, and RB8. The report explains baud rate calculations, provides assembly programs for LCD initialization, UART communication, and interrupt handling, and discusses the practical use of DACs to convert digital data to analog signals. It includes hardware and software tools like Keil µVision 4 and Proteus, and concludes with an analysis of interrupts, memory access efficiency, and practical waveform generation using the 8051.
                 </p>
               </details>
           </p>  
