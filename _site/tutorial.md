@@ -61,13 +61,10 @@
         - The main landing page. Ignore this file and look at \_layouts\index.html
 
     - about.md:
-        - About me.
+        -
 
     - publications.md:
-        - List of all the publications till date.
-    
-    - projects.md 
-        - List of all the projects till date.
+        -
 
 
 
