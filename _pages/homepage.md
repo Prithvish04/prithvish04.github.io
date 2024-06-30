@@ -167,9 +167,9 @@ SENMap is developed in such a way that it supports flexible SNN/DNN application 
 ### Calendar
 
 - Feel free to send out a meeting/interview invite on the given email address. <br>
-- Use the <b>Month</b> to have an overview of my calender and the <b>Week</b> to have a detailed daily view. <br>
-- For HR/non-technical interviews, a prior notice of a day would be appriciated. <br>
-- For technical interviews, a prior notice of 3~4 business days would be appriciated. <br>
+- Use the <b>Month</b> to have an overview of my calendar and the <b>Week</b> to have a detailed view. <br>
+- For HR/non-technical interviews, a prior notice of a day would be appreciated. <br>
+- For technical interviews, a prior notice of 3~4 business days would be appreciated. <br>
 
 
 
