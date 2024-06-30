@@ -45,7 +45,7 @@ I am currently open to work. I used to work as a Senior Research Engineer at [Ba
 I did my master thesis with [Interuniversity Microelectronic Center](https://www.imec-int.com/en) where I interacted with some industry leading researchers and scientists. I was extremely fortunate to have been supervised by [Prof. dr. ir. Amirreza Yousefzadeh](https://people.utwente.nl/a.yousefzadeh) and [Ir. Gert-Jan van Schaik](https://ieeexplore.ieee.org/author/38243322300) for my thesis. I also had the chance to interact with [Dr. Manolis Sifalakis](https://scholar.google.ch/citations?user=zrwgoKMAAAAJ&hl=en), [Dr. Paul Detterer](https://scholar.google.com/citations?user=oiwQPnYAAAAJ&hl=en), [Dr. Guangzhi Tang](https://tangguangzhi.com/) & [Kanishkan Vadivel](https://scholar.google.com/citations?user=1k5ynUwAAAAJ&hl=en). 
 
 <br>  
- My Resume/CV can be found [here](/docs/CV_Prithvish_June_2024_.pdf).
+ My Resume/CV can be found [here](/docs/CV_Prithvish_July_2024_v2.pdf).
 <br>
 
 ### Research Work

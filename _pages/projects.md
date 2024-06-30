@@ -743,6 +743,4 @@ Worldwide obesity has nearly tripled since 1975 and is still growing . More than
      </td>
   </tr> 
 
-</table>
-
 
