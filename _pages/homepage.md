@@ -41,7 +41,8 @@ paper {
 
 <!--<img align="left" width=150px src="/images/dp.jpg"> -->
 
-I am currently open to work. I used to work as a Senior Research Engineer at [Barcelona Supercomputing Center](https://www.bsc.es). Prior to which, I received my MSc degree in computer engineering from the [Quantum and computer engineering department](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering) at the [Delft University of Technology](https://www.tudelft.nl/en/), where I was fortunate to have been advised by [Prof. dr. ir. Zaid Al-Ars](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/computer-engineering/staff/zaid-al-ars). 
+Hi, My name Prithvish Vijaykumar Nembhani.
+I am currently OPEN TO WORK. I used to work as a Senior Research Engineer at [Barcelona Supercomputing Center](https://www.bsc.es). Prior to which, I received my MSc degree in computer engineering from the [Quantum and computer engineering department](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering) at the [Delft University of Technology](https://www.tudelft.nl/en/), where I was fortunate to have been advised by [Prof. dr. ir. Zaid Al-Ars](https://www.tudelft.nl/en/eemcs/the-faculty/departments/quantum-computer-engineering/sections/computer-engineering/staff/zaid-al-ars). 
 I did my master thesis with [Interuniversity Microelectronic Center](https://www.imec-int.com/en) where I interacted with some industry leading researchers and scientists. I was extremely fortunate to have been supervised by [Prof. dr. ir. Amirreza Yousefzadeh](https://people.utwente.nl/a.yousefzadeh) and [Ir. Gert-Jan van Schaik](https://ieeexplore.ieee.org/author/38243322300) for my thesis. I also had the chance to interact with [Dr. Manolis Sifalakis](https://scholar.google.ch/citations?user=zrwgoKMAAAAJ&hl=en), [Dr. Paul Detterer](https://scholar.google.com/citations?user=oiwQPnYAAAAJ&hl=en), [Dr. Guangzhi Tang](https://tangguangzhi.com/) & [Kanishkan Vadivel](https://scholar.google.com/citations?user=1k5ynUwAAAAJ&hl=en). 
 
 <br>  
@@ -162,10 +163,13 @@ SENMap is developed in such a way that it supports flexible SNN/DNN application 
 ## Recent News
 - SENSIM got accepted in IJCNN (IEEE WCCI)
 - Masters done. Graduated! 
-<br><br> 
+ 
+<br>
+### Calendar
 
-
-
+Feel free to send out a meeting/interview invite on the given email address. 
+For human resouce interviews, a prior notice of a day would be appriciated.
+For technical interviews, a prior notice of 3~4 business days would be appriciated.
 
 
 
