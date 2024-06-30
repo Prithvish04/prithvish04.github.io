@@ -170,6 +170,7 @@ SENMap is developed in such a way that it supports flexible SNN/DNN application 
 - Use the <b>Month</b> to have an overview of my monthly calendar and the <b>Week</b> to have a daily/weekly detailed view. <br>
 - For HR/non-technical interviews, a prior notice of a day would be appreciated. <br>
 - For technical interviews, a prior notice of 3~4 business days would be appreciated. <br>
+- You can also book an appointment [here](https://calendar.app.google/3ztykq7k1cygKgse7)<br>
 
 
 
