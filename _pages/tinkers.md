@@ -1,9 +1,9 @@
 ---
-permalink: "/musings/"
+permalink: "/tinkers/"
 layout: page
-title: My Musings
+title: Tinkers
 sidebar_link: true
-order: 7
+order: 6
 ---
 
 

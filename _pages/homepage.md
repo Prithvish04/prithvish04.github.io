@@ -154,15 +154,12 @@ SENMap is developed in such a way that it supports flexible SNN/DNN application 
           </p>  
      </td>
   </tr> 
-
-
-
   </table>
 
 
 ### Recent News
 - SENSIM got accepted in IJCNN (IEEE WCCI)
-- Masters done. Graduated! 
+- M.Sc. done. Now can proudly call myself an Ir. Prithvish. 
  
 ### Calendar
 
