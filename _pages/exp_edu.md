@@ -1,7 +1,7 @@
 ---
 permalink: "/expedu/"
 layout: page
-title: Exp & Edu
+title: Experience
 sidebar_link: true
 order: 2
 ---
@@ -65,5 +65,31 @@ order: 2
       </p>
     </td>
   </tr>
+
+
+    <tr>
+    <td width="14%" valign="top">
+      <img src="/images/work/arista.png" alt="Arista Networks" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%" />
+    </td>
+    <td valign="top" width="85%">
+      <p>
+        <paper>Technical Solution Engineer at Arista Networks</paper><br>
+        <em>Bangalore, India</em><br>
+        July 2017 - Aug 2020
+        <details>
+          <summary>Details</summary>
+          <p class="message">
+            <ul>
+              <li>Expanding upon the basics of routing and switching, got a chance to work on a variety of advanced technologies such as EVPN, Vxlan, GRE, IPSEC, MPLS, ISIS, PTP, Docker Products, VMware Products, etc as a Network Engineer.</li>
+              <li>Provided solutions to various multi-vendor problems to a variety of customers ranging from cloud giants such as Facebook, and Microsoft; Trading firms like Tower research, NYSE, etc to ISPs where Arista devices are in place from the APAC and EMEA regions.</li>
+              <li>Adapting to an organization's knowledge-sharing culture, inculcated and developed qualities such as teamwork, communicating tactically, presenting, and addressing wider audiences as a whole.</li>
+              <li>Gained insight into several merchant silicon chips manufactured by Intel, Broadcom, etc., and proprietary architecture design of the Arista switches.</li>
+            </ul>
+          </p>
+        </details>
+      </p>
+    </td>
+  </tr>
+  
 
   </table>
