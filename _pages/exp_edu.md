@@ -1,7 +1,7 @@
 
 
 ---
-permalink: "/edu_exp/"
+permalink: "/exp_edu/"
 layout: page
 title: Edu. & Exp.
 sidebar_link: true
