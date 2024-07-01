@@ -1,13 +1,10 @@
-
-
 ---
-permalink: "/exp_edu/"
+permalink: "/expedu/"
 layout: page
-title: "Edu. & Exp."
+title: "Exp & Edu"
 sidebar_link: true
 order: 2
 ---
-
 
 
 <style>
