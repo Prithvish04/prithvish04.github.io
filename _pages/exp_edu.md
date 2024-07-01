@@ -1,6 +1,15 @@
-Certainly! Here’s the HTML format with all the work experience and internships, without repeating your name:
 
-```html
+
+---
+permalink: "/edu_exp/"
+layout: page
+title: Edu. & Exp.
+sidebar_link: true
+order: 2
+---
+
+
+
 <style>
   table {
     margin-bottom: 1rem;
@@ -97,7 +106,7 @@ Certainly! Here’s the HTML format with all the work experience and internships
         <details>
           <summary>Details</summary>
           <p class="message">
-            Engaged in a project involving microsatellite benchmarks acceleration on a ZYNQ UltraScale+ MPSoC.
+              Engaged in a project involving microsatellite benchmarks acceleration on a ZYNQ UltraScale+ MPSoC.
           </p>
         </details>
       </p>
