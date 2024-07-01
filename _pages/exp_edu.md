@@ -3,7 +3,7 @@
 ---
 permalink: "/exp_edu/"
 layout: page
-title: Edu. & Exp.
+title: "Edu. & Exp."
 sidebar_link: true
 order: 2
 ---
