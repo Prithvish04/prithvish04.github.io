@@ -239,9 +239,8 @@ order: 2
       <details>
         <summary>Details</summary>
         <p class="message">
-          <ul>
-            <li>Worked with ATMEL microcontroller and AVR embedded C.</li>
-            <li>Contributed to projects involving sensory modules and robotics.</li>
+            - Worked with ATMEL microcontroller and AVR embedded C.
+            - Contributed to projects involving sensory modules and robotics.
           </ul>
         </p>
       </details>
