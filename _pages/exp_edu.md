@@ -1,3 +1,11 @@
+---
+permalink: "/expedu/"
+layout: page
+title: Exp & Edu
+sidebar_link: true
+order: 2
+---
+
 <style>
   table {
     margin-bottom: 1rem;
