@@ -1,12 +1,3 @@
----
-permalink: "/expedu/"
-layout: page
-title: "Exp & Edu"
-sidebar_link: true
-order: 2
----
-
-
 <style>
   table {
     margin-bottom: 1rem;
@@ -37,77 +28,34 @@ order: 2
   }
 </style>
 
-#### 2024 - Present
-
 <table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
   <tr>
-    <td width="14%" valign="top">
-      <img src="/images/work/arista.png" alt="Arista Networks" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%" />
-    </td>
-    <td valign="top" width="85%">
-      <p>
-        <paper>Technical Solutions Engineer at Arista Networks</paper>
-        <details>
-          <summary>Details</summary>
-          <p class="message">
-            Extensive industrial experience as a Technical Solutions Engineer at Arista Networks, with 3.5 years of experience. Profound interest in the hardware architecture of Arista’s data center switches and routers.
-          </p>
-        </details>
-      </p>
-    </td>
+    <th>Work Experience</th>
   </tr>
   <tr>
     <td width="14%" valign="top">
-      <img src="/images/education/tudelft.png" alt="TU Delft" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%" />
+      <img src="/images/work/bsc.png" alt="Barcelona Supercomputing Center" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%" />
     </td>
     <td valign="top" width="85%">
       <p>
-        <paper>Master’s Degree in Computer Engineering</paper>
+        <paper>Research Engineer 3 (Senior Research Engineer) at Barcelona Supercomputing Center</paper><br>
+        <em>Barcelona, Spain</em><br>
+        September, 2023 - January 2024
         <details>
           <summary>Details</summary>
           <p class="message">
-            Pursued a Master’s degree in Computer Engineering at TU Delft, focusing on systems research and cutting-edge hardware design.
+            <ul>
+              <li>Worked on designing a software hardware (PS-PL) framework with Zynq ultra-scale MPSoC and accelerated algorithms for a microsatellite.</li>
+              <li>Reviewed papers for the DATE conference 2024 on computer architecture and EDA tools. Gave appropriate feedback to improve on these papers.</li>
+              <li>Worked on pipelining kernels of the algorithm with no data dependency with Dynamic function exchange and Partial dynamic reconfiguration features offered by the Zynq Ultrascale+.</li>
+              <li>Resolved bugs on the kernel, rootfs, drivers, device tree, deployed and tested openmp, fpga manager and utils on petalinux builds.</li>
+              <li>Setup the MPSoC available across VPN by setting it up on the existing networking infrastructure at BSC enabling remote deployment, orchestration, build over tftp and debugging (over ethernet and Serial connections).</li>
+              <li>Xilinx UltraScale MPSOC, Vitis & Vivado Development, PetaLinux, SDSoC & SDAccel Xilinx development, device tree configuration, Arm Cortex A53, Arm cortex R5, Kernel & rootfs build.</li>
+            </ul>
           </p>
         </details>
       </p>
     </td>
   </tr>
-</table>
 
-#### 2022 - 2024
-
-<table width="100%" align="center" border="0" cellspacing="0" cellpadding="20">
-  <tr>
-    <td width="14%" valign="top">
-      <img src="/images/internships/imec.png" alt="IMEC" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%" />
-    </td>
-    <td valign="top" width="85%">
-      <p>
-        <paper>Intern at Interuniversity Microelectronics Center (IMEC)</paper>
-        <details>
-          <summary>Details</summary>
-          <p class="message">
-            Gained expertise in low-power RISC-V processors and ISA, optimization techniques, graph theory, spiking and deep neural networks, quantization, event-based simulator design, energy modeling, heterogeneous system design, data-driven systems, and synchronous-asynchronous distributed system design.
-          </p>
-        </details>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="14%" valign="top">
-      <img src="/images/internships/bsc.png" alt="Barcelona Supercomputing Center" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%" />
-    </td>
-    <td valign="top" width="85%">
-      <p>
-        <paper>Intern at Barcelona Supercomputing Center</paper>
-        <details>
-          <summary>Details</summary>
-          <p class="message">
-              Engaged in a project involving microsatellite benchmarks acceleration on a ZYNQ UltraScale+ MPSoC.
-          </p>
-        </details>
-      </p>
-    </td>
-  </tr>
-</table>
-```
+  </table>
