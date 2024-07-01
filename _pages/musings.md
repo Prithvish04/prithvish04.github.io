@@ -1,7 +1,7 @@
 ---
 permalink: "/musings/"
 layout: page
-title: My Musings
+title: Musings
 sidebar_link: true
 order: 7
 ---
