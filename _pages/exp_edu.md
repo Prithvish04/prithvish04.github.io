@@ -91,10 +91,12 @@ order: 2
     </td>
   </tr>
 
-
+  <tr>
+    <th>Work Experience</th>
+  </tr>
 <tr>
   <td width="14%" valign="top">
-    <img src="/images/work/interuniversity_microelectronics_center.png" alt="Interuniversity Microelectronics Center" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%" />
+    <img src="/images/work/imec.png" alt="Interuniversity Microelectronics Center" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%" />
   </td>
   <td valign="top" width="85%">
     <p>
@@ -119,7 +121,7 @@ order: 2
 
 <tr>
   <td width="14%" valign="top">
-    <img src="/images/work/delft_university_of_technology.png" alt="Delft University of Technology" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%" />
+    <img src="/images/work/tudelft.png" alt="Delft University of Technology" style="vertical-align:top; width: 80%; margin:0px 10px; border-radius:0%" />
   </td>
   <td valign="top" width="85%">
     <p>
