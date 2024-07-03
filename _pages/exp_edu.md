@@ -92,7 +92,7 @@ order: 2
   </tr>
 
   <tr>
-    <th>Work Experience</th>
+    <th>Internships and Parttime</th>
   </tr>
 <tr>
   <td width="14%" valign="top">
@@ -241,8 +241,8 @@ order: 2
       <details>
         <summary>Details</summary>
         <p class="message">
-            - Worked with ATMEL microcontroller and AVR embedded C.
-            - Contributed to projects involving sensory modules and robotics.
+            (-) Worked with ATMEL microcontroller and AVR embedded C.
+            (-) Contributed to projects involving sensory modules and robotics.
           </ul>
         </p>
       </details>
