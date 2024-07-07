@@ -51,7 +51,7 @@ order: 2
         September, 2023 - January 2024
         <details>
           <summary>Details</summary>
-          <p class="message">
+          <p >
             <ul>
               <li>Worked on designing a software hardware (PS-PL) framework with Zynq ultra-scale MPSoC and accelerated algorithms for a microsatellite.</li>
               <li>Reviewed papers for the DATE conference 2024 on computer architecture and EDA tools. Gave appropriate feedback to improve on these papers.</li>
@@ -78,7 +78,7 @@ order: 2
         July 2017 - Aug 2020
         <details>
           <summary>Details</summary>
-          <p class="message">
+          <p >
             <ul>
               <li>Expanding upon the basics of routing and switching, got a chance to work on a variety of advanced technologies such as EVPN, Vxlan, GRE, IPSEC, MPLS, ISIS, PTP, Docker Products, VMware Products, etc as a Network Engineer.</li>
               <li>Provided solutions to various multi-vendor problems to a variety of customers ranging from cloud giants such as Facebook, and Microsoft; Trading firms like Tower research, NYSE, etc to ISPs where Arista devices are in place from the APAC and EMEA regions.</li>
@@ -105,7 +105,7 @@ order: 2
       Dec 2021 - Nov 2022
       <details>
         <summary>Details</summary>
-        <p class="message">
+        <p >
           <ul>
             <li>Worked on designing a tool for efficient mapping of spiking neural networks on a neuromorphic chip (SENeCA).</li>
             <li>Compared optimization algorithms for single and multi-objective optimization, improving tool efficiency significantly.</li>
@@ -130,7 +130,7 @@ order: 2
       Aug 2021 - Jan 2022
       <details>
         <summary>Details</summary>
-        <p class="message">
+        <p >
           <ul>
             <li>Mentored computer engineering and embedded systems students.</li>
             <li>Organized events to facilitate student interaction and learning.</li>
@@ -152,7 +152,7 @@ order: 2
       July 2021 - Oct 2021
       <details>
         <summary>Details</summary>
-        <p class="message">
+        <p >
           <ul>
             <li>Worked on hardware modeling using machine learning for X-RAY systems.</li>
             <li>Supported by the Vivaldy EU project.</li>
@@ -174,7 +174,7 @@ order: 2
       Jan 2017 - Jul 2017
       <details>
         <summary>Details</summary>
-        <p class="message">
+        <p >
           <ul>
             <li>Learned networking protocols and technologies.</li>
             <li>Worked on a project for dynamic detection of DDoS attacks.</li>
@@ -196,7 +196,7 @@ order: 2
       May 2016 - July 2016
       <details>
         <summary>Details</summary>
-        <p class="message">
+        <p >
           <ul>
             <li>Worked on game theory and wireless communication models.</li>
             <li>Analyzed signal-to-noise ratio using MATLAB.</li>
@@ -240,7 +240,7 @@ order: 2
       Jun 2014 - Jul 2014
       <details>
         <summary>Details</summary>
-        <p class="message">
+        <p>
             (-) Worked with ATMEL microcontroller and AVR embedded C.
             (-) Contributed to projects involving sensory modules and robotics.
           </ul>
