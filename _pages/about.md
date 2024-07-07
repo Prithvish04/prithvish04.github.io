@@ -179,7 +179,7 @@ Reviewer: [DATE Conference](https://www.date-conference.com/) (2023-2024)
     <td width="5%"  valign="middle"> <b>2016</b>
     </td>
      <td width="7%"  valign="middle">
-            <img src="/images/aboutme/niyantra.png" alt="utt" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%"/> 
+            <img src="/images/aboutme/niyantra.png" alt="niyantra" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="middle" width="80%">
           <p>
@@ -189,6 +189,21 @@ Reviewer: [DATE Conference](https://www.date-conference.com/) (2023-2024)
           </p>  
      </td>
    </tr>
+
+     <tr>
+    <td width="5%"  valign="middle"> <b>2015</b>
+    </td>
+     <td width="7%"  valign="middle">
+            <img src="/images/aboutme/lnmiit.png" alt="lnmiit" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%"/> 
+     </td>
+     <td valign="middle" width="80%">
+          <p>
+              <b>Research Intern at the </b> <a href="https://lnmiit.ac.in/">LNMIIT</a>
+              <br>
+              Advised by <a href="https://scholar.google.co.in/citations?user=18S1vLYAAAAJ&hl=en"> Prof. dr. Purnendu karmakar</a>.
+          </p>  
+     </td>
+   </tr>   
 
    <tr>
     <td width="5%"  valign="middle"> <b>2015</b>
@@ -209,7 +224,7 @@ Reviewer: [DATE Conference](https://www.date-conference.com/) (2023-2024)
     <td width="5%"  valign="middle"> <b>2015</b>
     </td>
      <td width="7%"  valign="middle">
-            <img src="/images/aboutme/Phynart.png" alt="Phynart" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%"/> 
+            <img src="/images/aboutme/phynart.png" alt="Phynart" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%"/> 
      </td>
      <td valign="middle" width="80%">
           <p>
