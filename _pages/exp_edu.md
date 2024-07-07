@@ -218,7 +218,7 @@ order: 2
       Dec 2015 - Jan 2016
       <details>
         <summary>Details</summary>
-        <p class="message">
+        <p>
           <ul>
             <li>Developed automation module for home network setup.</li>
             <li>Worked with Realtek and Mediatek wireless adapters.</li>
