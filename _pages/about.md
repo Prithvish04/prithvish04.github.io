@@ -204,6 +204,21 @@ Reviewer: [DATE Conference](https://www.date-conference.com/) (2023-2024)
           </p>  
      </td>
    </tr>
+
+  <tr>
+    <td width="5%"  valign="middle"> <b>2015</b>
+    </td>
+     <td width="7%"  valign="middle">
+            <img src="/images/aboutme/Phynart.png" alt="Phynart" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%"/> 
+     </td>
+     <td valign="middle" width="80%">
+          <p>
+              <b>Intern at the </b> <a href="https://phynart.com/">Phynart Technologies</a>
+              <br>
+              Advised by <a href="https://www.linkedin.com/in/ajit-wadekar-5270497a?originalSubdomain=in"> Ajit Wadekar</a>.
+          </p>  
+     </td>
+   </tr>   
    
    <tr>
     <td width="5%"  valign="middle"> <b>2015</b>
@@ -220,6 +235,8 @@ Reviewer: [DATE Conference](https://www.date-conference.com/) (2023-2024)
      </td>
    </tr>
 
+   
+
    <tr>
     <td width="5%"  valign="middle"> <b>2015</b>
     </td>
@@ -231,6 +248,20 @@ Reviewer: [DATE Conference](https://www.date-conference.com/) (2023-2024)
               <b>Participant at the </b> <a href="">Google little box inverter design challenge</a>
               <br>
               Advised by <a href="https://scholar.google.com/citations?hl=en&user=tzjM4mMAAAAJ"> Prof. dr. P. Manikandan</a>.
+          </p>  
+     </td>
+   </tr>   
+
+    <tr>
+    <td width="5%"  valign="middle"> <b>2015</b>
+    </td>
+     <td width="7%"  valign="middle">
+            <img src="/images/aboutme/edubotix.png" alt="edubotix" style="vertical-align:middle; width: 80%; margin:0px 10px; border-radius:0%"/> 
+     </td>
+     <td valign="middle" width="80%">
+          <p>
+              <b>Trainee at the </b> <a href="">Edubotix Labs</a>
+              <br>
           </p>  
      </td>
    </tr>   
