@@ -79,6 +79,7 @@ As Nikola Tesla once said ... "If you want to find the secrets of the universe, 
               <a href="">Kanishkan Vadivel</a>,
               <a href="">Manolis Sifalakis</a>,
               <a href="">Guangzhi Tang</a>,
+              <a href="">Zaid Al-Ars</a>.    
               <a href="">Amirreza Yousefzadeh</a>.    
             <br>
             IEEE WCCI International Joint Conference on Neural Networks (IJCNN 2024)
@@ -138,7 +139,7 @@ As Nikola Tesla once said ... "If you want to find the secrets of the universe, 
           <p>
               <paper>Efficient mapping of large scale SNN and rate-based DNN on SENeCA</paper>
               <br>  
-              <b>Prithvish V N</b>,    
+              <b>Prithvish V N</b>,  
             <br>
             Delft University of Technology, Library
               <details>
