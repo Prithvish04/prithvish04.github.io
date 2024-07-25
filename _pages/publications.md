@@ -57,6 +57,7 @@ paper {
               <a href="">Kanishkan Vadivel</a>,
               <a href="">Manolis Sifalakis</a>,
               <a href="">Guangzhi Tang</a>,
+              <a href="">Zaid Al-Ara</a>, 
               <a href="">Amirreza Yousefzadeh</a>.    
             <br>
             IEEE WCCI International Joint Conference on Neural Networks (IJCNN 2024)

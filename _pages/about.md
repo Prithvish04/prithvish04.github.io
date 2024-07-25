@@ -48,7 +48,7 @@ My recent research interests would oscillate from neurmorphic to quromorphic, AC
 
 <!--
 <br>
-My Resume/CV can be found [here](/docs/Resume.pdf).
+My Resume/CV can be found [here](/docs/CV_Prithvish_july_2024.pdf).
 -->
 
 <br><br>
